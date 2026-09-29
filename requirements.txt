@@ -1,0 +1,27 @@
+# Core
+pandas==2.2.0
+numpy==1.26.4
+python-dotenv==1.0.0
+openpyxl==3.1.2
+xlrd==2.0.1
+tiktoken==0.7.0
+requests==2.32.3
+tqdm                           # progress bars in generate_mcq.py
+
+# LLM provider SDKs
+openai>=1.99                   # GPT-5 (generate_mcq.py and openai_evaluation.py) — needs a
+                                # recent SDK for the reasoning/verbosity params generate_mcq.py
+                                # passes; the 1.10.0 pin from the original evaluation-only repo
+                                # predates those and should not be used
+google-genai                   # Gemini MCQ generation (generate_mcq.py) — the new unified
+                                # "google-genai" package (`from google import genai`), NOT the
+                                # same package as the line below
+google-generativeai==0.3.1     # Gemini evaluation (evaluation/gemini_evaluation.py) — the
+                                # older "google-generativeai" package
+                                # (`import google.generativeai as genai`). Yes, these are two
+                                # different PyPI packages with similar names/APIs — generation
+                                # and evaluation were written against different Gemini SDKs.
+cohere>=5.0.0                  # Cohere — cohere_evaluation.py uses the ClientV2 API,
+                                # which needs SDK >= 5.x
+mistralai>=1.9                 # Mistral — mistral_evaluation.py requires >= 1.9
+together                       # Llama 4 and DeepSeek-R1 (Together AI batch API)

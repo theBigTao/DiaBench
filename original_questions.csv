@@ -1,0 +1,97 @@
+Clinician,Question ID,Question,Answer
+_,1,What is type 2 diabetes?,"A chronic condition that affects the way your body metabolizes sugar (glucose), often due to insulin resistance or insufficient insulin production."
+_,2,What are the symptoms of type 2 diabetes?,"Increased thirst, frequent urination, extreme fatigue, blurred vision, slow-healing wounds, and frequent infections."
+_,3,What causes type 2 diabetes?,"Factors include genetics, being overweight, inactivity, and insulin resistance. Obesity is a major risk factor."
+_,4,How is type 2 diabetes diagnosed?,"Through blood tests measuring blood sugar levels, typically the A1C test, fasting plasma glucose test, or oral glucose tolerance test."
+_,5,What is the difference between type 1 and type 2 diabetes?,"Type 1 is an autoimmune condition with no insulin production, while type 2 involves insulin resistance and a gradual insulin deficiency."
+_,6,Can type 2 diabetes be reversed?,"Some individuals may achieve remission through significant lifestyle changes such as weight loss and dietary modifications, but it is not universally considered reversible."
+_,7,How can I manage type 2 diabetes?,"Through a healthy diet, regular exercise, maintaining a healthy weight, monitoring blood sugar levels, and following healthcare recommendations on medications."
+_,8,What is a diabetic diet?,"Focuses on fresh, whole foods including vegetables, fruits, whole grains, lean proteins, and healthy fats, with attention to carbohydrate counting and portion control."
+_,9,How does exercise affect type 2 diabetes?,Regular exercise helps lower blood sugar levels and improves overall health and insulin sensitivity.
+_,10,What medications are commonly prescribed for type 2 diabetes?,"Metformin as the first-line treatment, and potentially sulfonylureas, DPP-4 inhibitors, GLP-1 receptor agonists, and insulin based on individual needs."
+_,11,How does insulin work in type 2 diabetes?,"Insulin helps cells absorb glucose from the bloodstream; in type 2 diabetes, the response to insulin is diminished, necessitating higher levels for the same effect."
+_,12,What are the long-term complications of type 2 diabetes?,"Complications include cardiovascular disease, nerve damage, kidney damage, eye problems (retinopathy), foot damage, and skin issues."
+_,13,How often should I check my blood sugar levels?,Monitoring frequency varies based on treatment and individual goals; consult a healthcare provider for a personalised plan.
+_,14,What is a healthy blood sugar range for someone with type 2 diabetes?,"Generally, A1C levels should be below 7 %, with blood glucose levels between 80-130 mg/dL before meals and under 180 mg/dL after meals."
+_,15,How can I prevent type 2 diabetes?,"Maintaining a healthy weight, regular physical activity, a balanced diet, and routine health check-ups can help prevent type 2 diabetes, especially if there are risk factors."
+_,16,Can stress affect blood sugar levels?,"Yes, stress can raise blood sugar levels due to stress hormones, affecting insulin effectiveness and glucose metabolism."
+_,17,Are there any natural remedies for type 2 diabetes?,"Some natural remedies (e.g., cinnamon, aloe vera) show promise but should not replace conventional treatments; always consult a healthcare provider."
+_,18,How do I read food labels for carbohydrate content?,"Look for total carbohydrates on the label, paying attention to serving size and choosing foods with lower added sugars and higher fibre content."
+_,19,What role does weight loss play in managing type 2 diabetes?,"Losing weight can improve insulin sensitivity and help control blood sugar levels, reducing the likelihood of complications."
+_,20,How can I avoid diabetic complications?,"Regular check-ups, blood sugar monitoring, a healthy lifestyle, medication adherence, and managing blood pressure and cholesterol levels are vital."
+_,21,What lifestyle changes can help manage type 2 diabetes?,"Eating a balanced diet, regular physical activity, managing stress, and avoiding tobacco use are key changes."
+_,22,Is there a link between type 2 diabetes and heart disease?,"Yes, people with type 2 diabetes have a higher risk of cardiovascular disease due to shared risk factors like obesity and high blood pressure."
+_,23,How does sleep affect type 2 diabetes?,"Poor sleep can lead to insulin resistance and affect hunger hormones, contributing to weight gain and higher blood sugar levels."
+_,24,What are the best snacks for someone with type 2 diabetes?,"Healthy snacks include nuts, yogurt, raw vegetables with hummus, or small portions of fruit—balanced with protein and fibre."
+_,25,How often should I see my doctor if I have type 2 diabetes?,"Regular check-ups should generally be at least twice a year, with more frequent visits as needed based on the treatment plan."
+_,26,Can type 2 diabetes be hereditary?,"Yes, genetics plays a role in type 2 diabetes risk; having a family history can increase risk."
+_,27,What tests will I need to monitor my diabetes management?,"Tests include A1C tests, lipid profiles, kidney function tests, and routine foot and eye exams."
+_,28,How does alcohol consumption impact type 2 diabetes?,"Alcohol can affect blood sugar levels; moderation is essential, and it's important to discuss alcohol use with a healthcare provider."
+_,29,What are the signs of hypoglycaemia?,"Symptoms include shakiness, sweating, confusion, irritability, and in severe cases, seizures or loss of consciousness."
+_,30,Can I eat bread if I have type 2 diabetes?,"Yes, but choose whole-grain and high-fibre options, and monitor portion sizes, as bread contains carbohydrates."
+_,31,How does fibre intake affect blood sugar levels?,"High-fibre foods can slow the absorption of sugar, leading to better blood sugar control."
+_,32,What is the role of carbohydrates in a diabetic diet?,"Carbohydrates affect blood glucose levels, so managing carbohydrate intake is crucial for blood sugar control."
+_,33,How does high blood pressure relate to type 2 diabetes?,High blood pressure is common in individuals with diabetes due to shared risk factors and can lead to cardiovascular complications.
+_,34,What are the best types of exercise for managing type 2 diabetes?,"Aerobic exercises (like walking, cycling) and strength training improve insulin sensitivity and control blood sugar."
+_,35,Can type 2 diabetes lead to kidney problems?,"Yes, diabetes is a leading cause of kidney disease due to damage to the blood vessels in the kidneys."
+_,36,How can I improve my insulin sensitivity?,"Weight loss, regular physical activity, a balanced diet low in processed foods, and managing stress can all improve insulin sensitivity."
+_,37,Is continuous glucose monitoring helpful for type 2 diabetes?,Continuous glucose monitoring (CGM) can offer real-time insights into blood sugar trends and improve management.
+_,38,How do I create a meal plan for type 2 diabetes?,"Consider portion sizes, carbohydrate counting, and including a variety of foods; consulting a registered dietitian can be very helpful."
+_,39,What is the impact of refined sugars on blood sugar levels?,Refined sugars can cause rapid spikes in blood sugar and should be limited in a diabetic diet.
+_,40,How can I deal with diabetes burnout?,"Seek support from healthcare providers, connect with others who have diabetes, and consider speaking with a mental health professional if needed."
+_,41,Can children get type 2 diabetes?,"Yes, the incidence of type 2 diabetes in children is increasing, especially with rising obesity rates."
+_,42,What is the role of cholesterol in type 2 diabetes management?,Maintaining healthy cholesterol levels is important to prevent cardiovascular complications.
+_,43,How does type 2 diabetes affect mental health?,"People with type 2 diabetes may experience anxiety or depression, which can affect diabetes management."
+_,44,What are the best foods for breakfast if you have type 2 diabetes?,"Good options include oatmeal, whole-grain toast with protein, Greek yogurt, and fruits with high fibre."
+_,45,Can I still enjoy sweets if I have type 2 diabetes?,"Yes, but moderation is key. Balance sweet treats with carbohydrate intake and monitor blood sugar levels."
+_,46,What should I do if my blood sugar is too high?,"Take prescribed medications, drink water, increase physical activity, and monitor levels closely. Consult your healthcare provider for guidance."
+_,47,Are there specific vitamins or supplements that help with diabetes?,"Some supplements, like vitamin D and omega-3s, may help; however, it’s crucial to discuss any supplement use with your healthcare provider."
+_,48,What is diabetic retinopathy and how is it connected to type 2 diabetes?,Diabetic retinopathy is eye damage from high blood sugar affecting the retina; regular eye exams are vital.
+_,49,How does gestational diabetes relate to type 2 diabetes later in life?,Women with gestational diabetes have a higher risk of developing type 2 diabetes later in life.
+_,50,What should I know about diabetes and skin care?,"Keep skin clean and moisturised, treat cuts promptly, and watch for slow-healing wounds or infections."
+_,51,How can I manage diabetes while travelling?,"Plan ahead, pack medications and snacks, monitor blood sugar regularly, and stay active."
+_,52,Can my diabetes medication change over time?,"Yes, treatment plans may change with blood sugar trends, lifestyle, or side effects."
+_,53,What should I discuss with my healthcare provider regarding type 2 diabetes?,"Discuss blood sugar goals, medication options, lifestyle changes, and any health concerns."
+_,54,How do I handle dining out with diabetes?,"Review menus, choose healthy preparations, control portions, and track carbs."
+_,55,What resources are available for education and support for managing type 2 diabetes?,"Resources include the ADA website, local diabetes education programmes, support groups, and nutrition workshops."
+_,56,What ethnicities are at highest risk for type 2 diabetes?,"African-, Hispanic/Latino-, Native-, Asian-Americans, and Pacific Islanders face higher risk."
+_,57,How much does diabetes cost the US each year?,Over $400 billion was spent on diabetes in the US in 2022.
+_,58,What does it mean if someone can’t afford their insulin?,It means they may use less insulin or skip doses due to high costs.
+_,59,Is insulin cheaper now for people on Medicare?,"Yes, Medicare now limits insulin costs to $35 per month."
+_,60,Do different diabetes tests always agree?,"No, different tests can sometimes give different results."
+_,61,Can someone have both type 1 and type 2 diabetes features?,"Yes, a person can have overlapping features of both types."
+_,62,Can some cancer treatments cause diabetes?,"Yes, certain cancer immunotherapy drugs can trigger type 1 diabetes."
+_,63,Is type 2 diabetes the most common form?,"Yes, type 2 diabetes accounts for about 90–95 % of cases."
+_,64,When should an adult get tested for diabetes?,Adults should be tested by age 35 and sooner if overweight or obese with other risk factors.
+_,65,What is pancreatic diabetes?,"Diabetes caused by damage or removal of the pancreas, leading to digestion and blood-sugar problems."
+_,66,When should people with cystic fibrosis be screened for diabetes?,Start annual OGTT screening at age 10 if diabetes hasn’t been diagnosed.
+_,67,What is new-onset diabetes after a transplant (NODAT)?,Diabetes that begins after receiving an organ transplant.
+_,68,When should doctors suspect monogenic diabetes?,"When diabetes lacks typical type 1 or type 2 features, consider monogenic causes."
+_,69,What are the main goals of the Diabetes Prevention Program lifestyle plan?,Lose ≥ 7 % body weight and do 150 minutes of moderate activity weekly.
+_,70,Do certain diets lower my risk of type 2 diabetes?,"Yes, vegetarian, plant-based, and DASH diets are linked to lower risk."
+_,71,Does exercise help if I have pre-diabetes?,"Yes, brisk walking 150 min/week improves health and lowers progression risk."
+_,72,Does sleep affect my diabetes risk?,Both too little and too much sleep raise risk; ~7 hours is optimal.
+_,73,Can taking metformin long-term cause vitamin deficiencies?,"Yes, prolonged use may cause vitamin B12 deficiency."
+_,74,Can cholesterol medicines (statins) increase my diabetes risk?,Statin therapy may slightly raise risk of type 2 diabetes in high-risk people.
+_,75,Does pre-diabetes affect my heart?,"Yes, pre-diabetes increases heart-disease risk and early mortality."
+_,76,Why is lifestyle management important for diabetes?,Healthy habits and behavioural support are key for good control.
+_,77,Should people with diabetes get a hepatitis B shot?,"Yes, adults with diabetes under 60 should receive Hep B vaccination."
+_,78,Does diabetes increase my risk of fractures?,People with type 1 or type 2 diabetes have a significantly higher fracture risk.
+_,79,Are testosterone levels lower in men with diabetes?,"Yes, men with diabetes often have lower testosterone; obesity also contributes."
+_,80,What increases the risk of female sexual dysfunction in diabetes?,"High blood pressure, obesity, metabolic syndrome, smoking, and high cholesterol."
+_,81,What liver test is recommended for people with diabetes or pre-diabetes?,"If the FIB-4 score is ≥ 1.3, consider liver stiffness testing."
+_,82,What does MASLD mean?,Metabolic dysfunction–associated steatotic liver disease—a non-alcoholic fatty liver condition.
+_,83,How is MASLD defined?,Fatty liver plus at least one cardiometabolic risk factor linked to insulin resistance.
+_,84,How common is MASLD in people with type 2 diabetes?,More than 70 % of U.S. adults with type 2 have MASLD.
+_,85,Does diabetes increase my risk of serious liver disease like MASH?,"Yes, diabetes is a major risk factor for developing MASH (formerly NASH)."
+_,86,What does it mean if my liver biopsy says I have MASH?,"MASH = ≥ 5 % liver fat with inflammation and cell injury, ± fibrosis."
+_,87,Which diabetes medicines are best if I have type 2 diabetes and MASH?,"Pioglitazone, GLP-1 receptor agonists, or dual GIP/GLP-1 agonists help both blood sugar and liver disease."
+_,88,What is resmetirom and who should take it?,"An FDA-approved drug for MASLD with moderate-to-advanced fibrosis, often co-existing with diabetes."
+_,89,How common is sleep apnoea if I have type 2 diabetes?,Sleep apnoea affects up to 23 % and sleep-disordered breathing up to 58 %.
+_,90,Should people with diabetes get diabetes education and support?,"Yes, everyone with diabetes should enrol in education and support programs."
+_,91,Who helps teach and support people with diabetes?,Diabetes Care & Education Specialists (DCES) are the go-to professionals.
+_,92,Are there any special dietary warnings for people taking SGLT2 inhibitors?,Avoid a ketogenic diet and watch for ketoacidosis signs.
+_,93,What are the risks of drinking alcohol if I have diabetes?,"Alcohol can cause low blood sugar, weight gain, or high blood sugar, especially with insulin or certain pills."
+_,94,What is diabetes distress?,Feeling stressed or overwhelmed by the daily demands of diabetes management.
+_,95,Can diabetes medicines or exercise affect my brain health?,Exercise and drugs like SGLT2 or GLP-1 RAs lower cognitive-decline risk; sulfonylureas may raise it.
+_,96,Which sense is at greatest risk of decreasing in an older person with diabetes?,Hearing.

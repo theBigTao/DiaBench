@@ -1,0 +1,961 @@
+ID,Original Question,Original Answer,Generated Question,Choices,Answer
+1,What is type 2 diabetes?,"A chronic condition that affects the way your body metabolizes sugar (glucose), often due to insulin resistance or insufficient insulin production.","A 52-year-old man with BMI 32 presents with polyuria and polydipsia. Fasting plasma glucose is 146 mg/dL, HbA1c 7.3%, fasting insulin 28 μU/mL (high), C-peptide 3.5 ng/mL (high), and anti-GAD antibodies are negative. Which two statements best describe the underlying disease process?","A) A chronic disorder of impaired glucose metabolism characterized by insulin resistance in peripheral tissues and increased hepatic glucose output.
+B) Autoimmune-mediated destruction of pancreatic beta cells causing absolute insulin deficiency.
+C) A transient hyperglycemic state limited to pregnancy due to placental hormones.
+D) A monogenic, autosomal-dominant diabetes (MODY) typically presenting in lean adolescents with mild fasting hyperglycemia.
+E) Malabsorption from exocrine pancreatic enzyme deficiency causing postprandial hyperglycemia.
+F) Progressive beta-cell dysfunction leading to insufficient insulin production relative to increased metabolic demand.
+G) A primary hypoglycemic disorder resulting from excessive insulin secretion by a pancreatic tumor.
+H) A condition defined by sudden onset with universal risk of diabetic ketoacidosis in lean children.
+I) A disease typically cured by a brief course of insulin that restores normal beta-cell mass.
+J) A disorder driven solely by excess glucagon secretion with normal insulin action.","A, F"
+2,What are the symptoms of type 2 diabetes?,"Increased thirst, frequent urination, extreme fatigue, blurred vision, slow-healing wounds, and frequent infections.","A 55-year-old man with BMI 32 presents with 3 months of fatigue and a shin abrasion that has been slow to heal. Fasting plasma glucose is 142 mg/dL on two separate mornings, HbA1c is 7.4%, and urinalysis shows glucosuria without ketones, leukocyte esterase, or nitrites. Which TWO additional historical features would most directly reflect the osmotic diuresis caused by hyperglycemia and thereby strengthen the diagnosis of type 2 diabetes?","A) Marked increase in thirst requiring frequent water intake overnight
+B) High-volume urinary frequency, including nocturia
+C) Blurred vision that fluctuates during the day
+D) Recurrent vulvovaginal candidiasis
+E) Weight gain despite reduced appetite
+F) Cold intolerance and constipation
+G) Dysuria and suprapubic pain
+H) Tremor and diaphoresis relieved by eating
+I) Paresthesias and burning pain in both feet
+J) Bilateral leg edema worse at the end of the day","A, B"
+3,What causes type 2 diabetes?,"Factors include genetics, being overweight, inactivity, and insulin resistance. Obesity is a major risk factor.","A 52-year-old man (BMI 33 kg/m2; waist circumference 110 cm) is found on screening to have fasting plasma glucose 132 mg/dL and HbA1c 6.8%. Fasting insulin is 28 μU/mL (elevated), triglycerides 240 mg/dL, and HDL-C 37 mg/dL. He recently started walking 10,000 steps daily but has gained 9 kg over 3 years. His father developed “adult-onset” diabetes at age 55. Which TWO factors most directly account for the pathogenesis of his type 2 diabetes?","A) Autoimmune β-cell destruction mediated by anti–GAD antibodies
+B) Visceral (central) adiposity driving peripheral and hepatic insulin resistance
+C) Chronic pancreatitis causing pancreatic endocrine insufficiency
+D) High dietary sugar intake alone in a normal-weight, insulin-sensitive individual
+E) Genetic susceptibility reflected by a first-degree family history
+F) Long-term metformin therapy impairing insulin secretion
+G) Prolonged postoperative immobilization causing transient stress hyperglycemia
+H) Age-related absolute insulin deficiency with low fasting insulin and C-peptide
+I) Latent autoimmune diabetes in adults (LADA)
+J) Primary hyperaldosteronism causing hyperglycemia via potassium shifts alone","B, E"
+4,How is type 2 diabetes diagnosed?,"Through blood tests measuring blood sugar levels, typically the A1C test, fasting plasma glucose test, or oral glucose tolerance test.","An asymptomatic 54-year-old with obesity and hypertension undergoes diabetes screening. Which testing scenarios below would establish a diagnosis of type 2 diabetes per standard diagnostic criteria, assuming no acute illness?","A) A1C 6.6% by an NGSP-certified lab, repeated one week later at 6.7%
+B) Fasting plasma glucose 131 mg/dL after an 8-hour fast, repeated the next day at 110 mg/dL; A1C 6.2%
+C) 2-hour plasma glucose 202 mg/dL during a standardized 75-g oral glucose tolerance test
+D) Random plasma glucose 210 mg/dL in an asymptomatic patient; no confirmatory test performed
+E) A1C 6.5% obtained on a point-of-care device without laboratory confirmation
+F) Home glucometer fasting capillary glucose values of 128 and 130 mg/dL on two mornings
+G) 1-hour OGTT value 210 mg/dL with a 75-g load; 2-hour value 185 mg/dL
+H) A1C 6.8% drawn two weeks after packed red blood cell transfusion; repeated one week later at 6.7%
+I) 2-hour postprandial venous plasma glucose 205 mg/dL after the patient’s usual breakfast (non-standardized)
+J) Fasting plasma glucose 125 mg/dL on two separate mornings; A1C 6.4%","A, C"
+5,What is the difference between type 1 and type 2 diabetes?,"Type 1 is an autoimmune condition with no insulin production, while type 2 involves insulin resistance and a gradual insulin deficiency.","Two new patients present with symptomatic hyperglycemia. Patient 1 is a 19-year-old with BMI 22 who reports weight loss; labs: glucose 420 mg/dL, bicarbonate 16 mEq/L, positive serum ketones, GAD65 antibodies positive, fasting C-peptide 0.1 ng/mL. Patient 2 is a 52-year-old with BMI 33 and acanthosis nigricans; labs: glucose 280 mg/dL, bicarbonate 24 mEq/L, fasting C-peptide 4.0 ng/mL. Which two statements best distinguish the underlying pathophysiology of their diabetes types?","A) Patient 1’s findings are consistent with autoimmune beta-cell destruction leading to near-absent endogenous insulin production.
+B) Patient 2 likely has an autoimmune process causing insulin deficiency at onset.
+C) Patient 2’s elevated C-peptide confirms that insulin resistance is not involved in his hyperglycemia.
+D) Both patients have type 1 diabetes because they present with hyperglycemia and polyuria.
+E) The presence of acanthosis nigricans in patient 2 points to autoimmune etiology.
+F) A negative autoantibody panel would definitively exclude type 1 diabetes in patient 1.
+G) Patient 1 most likely has obesity-driven insulin resistance with preserved insulin production.
+H) In type 2 diabetes, endogenous insulin production typically remains stable and does not decline over time.
+I) Patient 1’s low bicarbonate and ketonemia reflect insulin resistance rather than insulin deficiency.
+J) Type 2 diabetes generally begins with insulin resistance and progresses to relative insulin deficiency over years.","A, J"
+6,Can type 2 diabetes be reversed?,"Some individuals may achieve remission through significant lifestyle changes such as weight loss and dietary modifications, but it is not universally considered reversible.","A 52-year-old man with type 2 diabetes diagnosed 2 years ago completes an intensive lifestyle program, losing 15% of body weight (BMI 38 to 32). He stopped metformin 4 months ago. His fasting glucose is 98 mg/dL and HbA1c is 6.3% on two measurements 4 months apart. He asks whether his diabetes is “reversed” or “cured.” Which statements are most accurate?","A) He is cured; HbA1c <6.5% for 3 months off medication constitutes permanent reversal.
+B) His current labs off glucose-lowering therapy meet guideline criteria for diabetes remission; this should be framed as remission rather than cure.
+C) Remission requires HbA1c <6.0% for at least 12 months off all glucose-lowering therapy.
+D) A normal 2-hour oral glucose tolerance test is required to diagnose remission.
+E) Because he previously used metformin, he cannot be considered in remission.
+F) Remission generally requires bariatric surgery or >25% total body weight loss.
+G) True remission requires continuing metformin for cardioprotection; stopping it means diabetes is still active.
+H) Even in remission, the underlying susceptibility persists; hyperglycemia may recur with weight regain, illness, or steroids, so ongoing lifestyle efforts and monitoring are needed.
+I) Once remission is achieved, routine HbA1c monitoring is unnecessary unless symptoms recur.
+J) Remission is unlikely within the first few years after diagnosis and typically occurs only in long-standing disease.","B, H"
+7,How can I manage type 2 diabetes?,"Through a healthy diet, regular exercise, maintaining a healthy weight, monitoring blood sugar levels, and following healthcare recommendations on medications.","A 58-year-old with newly diagnosed type 2 diabetes returns 3 months after starting metformin 500 mg twice daily. A1c decreased from 9.2% to 8.4%. BMI is 31 kg/m², BP 132/82 mmHg, eGFR 90 mL/min/1.73 m². He reports large portions of refined carbohydrates, minimal vegetables, and walking only once weekly. His glucose log shows fasting 150–180 mg/dL and 1–2 hour postprandials 200–240 mg/dL. He asks what he can do between visits to meaningfully improve control. Which TWO interventions most appropriately implement first-line management principles likely to lower A1c over the next 3 months?","A) Begin 150 minutes/week of moderate-intensity aerobic activity plus 2–3 nonconsecutive days/week of resistance training, progressing gradually
+B) Start a very-low-carbohydrate ketogenic diet without glucose monitoring or clinician input to enable rapid weight loss
+C) Double metformin to 1000 mg twice daily on his own since he’s tolerating the current dose
+D) Implement structured self-monitoring of blood glucose (e.g., fasting and 1–2 hours post-meal daily) with a written log to guide diet/activity adjustments with his clinician
+E) Replace “processed” sugars with fruit juices and honey to reduce glucose spikes
+F) Pursue >15% weight loss over 6 weeks using detox cleanses and appetite suppressants
+G) Avoid resistance training to reduce the risk of hypoglycemia
+H) Wait 6 months before rechecking home glucoses, relying on symptoms to guide changes
+I) Stop metformin whenever mild GI upset occurs and restart when symptoms resolve
+J) Start daily aspirin and a high-intensity statin to directly lower A1c regardless of cardiovascular risk","A, D"
+8,What is a diabetic diet?,"Focuses on fresh, whole foods including vegetables, fruits, whole grains, lean proteins, and healthy fats, with attention to carbohydrate counting and portion control.","A 54-year-old man with type 2 diabetes (A1C 8.2%) reports postprandial glucose spikes to 220–250 mg/dL after dinners heavy in white rice and sweet tea. He asks for practical dietary changes he can implement at dinner. Which TWO recommendations best align with evidence-based diabetic eating patterns emphasizing whole foods, carbohydrate counting, and portion control to reduce his postprandial excursions?","A) Adopt a very-low-carbohydrate ketogenic plan: eliminate grains, fruits, and legumes, and eat freely from meats, cheese, and butter to prevent glucose spikes.
+B) Replace sugar-sweetened beverages with diet soda and buy “diabetic” cookies and snack bars so you can keep your usual portion sizes.
+C) Use fruit juice or blended smoothies instead of whole fruit around dinner to obtain vitamins with faster absorption.
+D) Increase “healthy fats” such as nuts, avocado, and olive oil without measuring portions, since they have minimal effect on blood glucose.
+E) Use the plate method at dinner—fill half the plate with non-starchy vegetables, a quarter with lean protein, and a quarter with high-fiber carbohydrate such as brown rice or quinoa—and eliminate the sweet tea.
+F) Avoid all fruit due to sugar content; choose white rice or gluten-free crackers for easier digestion with predictable dosing.
+G) Rely on glycemic index alone rather than counting grams; any low-GI snack is acceptable regardless of serving size.
+H) Begin carbohydrate counting with a consistent target (e.g., 45–60 g at dinner), choose whole grains and whole fruit over refined starches and juice, and adjust portions based on postprandial readings.
+I) Swap the dinner rice for an equal-calorie portion of sweet potatoes and increase protein to about 60% of calories to improve A1C.
+J) Add cinnamon and apple-cider vinegar with meals; no diet changes are needed because his fasting readings are near goal.","E, H"
+9,How does exercise affect type 2 diabetes?,Regular exercise helps lower blood sugar levels and improves overall health and insulin sensitivity.,"A 55-year-old man with type 2 diabetes (A1c 8.2%, fasting glucose 160 mg/dL) on metformin plans brisk walking 30 minutes 5 days/week plus resistance training twice weekly. Which statements best describe the likely effects of this regimen on his glycemic control over the next several weeks?","A) During each session, skeletal muscle contraction increases GLUT4 translocation independent of insulin, acutely lowering plasma glucose.
+B) Chronic training improves insulin sensitivity in muscle and liver, reducing A1c by approximately 0.5–1% even without weight loss.
+C) Because he is not on insulin or sulfonylureas, he should preemptively ingest 30–45 g of carbohydrate before every session to prevent hypoglycemia.
+D) Exercise is unlikely to affect glycemia unless he loses at least 10% of body weight.
+E) Resistance training worsens postprandial glycemia compared with aerobic training and should be avoided in type 2 diabetes.
+F) He should avoid exercising when fasting glucose is 160 mg/dL to prevent exercise-induced ketoacidosis.
+G) The catecholamine surge with moderate-intensity walking will reliably increase his glucose during and after sessions.
+H) Exercise will acutely increase hepatic glucose output and therefore he should skip his metformin dose on workout days.
+I) Over time, exercise increases basal insulin requirements to counteract activity-induced inflammation.
+J) Tight glucose control from exercise depends on fasted workouts; postprandial exercise has no glycemic benefit.","A, B"
+10,What medications are commonly prescribed for type 2 diabetes?,"Metformin as the first-line treatment, and potentially sulfonylureas, DPP-4 inhibitors, GLP-1 receptor agonists, and insulin based on individual needs.","A 52-year-old man is newly diagnosed with type 2 diabetes after 3 weeks of polyuria, polydipsia, and 6-kg unintentional weight loss. Random plasma glucose is 356 mg/dL, A1c 11.2%, bicarbonate 24 mEq/L, anion gap 10, urine ketones negative, eGFR 78 mL/min/1.73 m², AST/ALT normal, BMI 33 kg/m². He does shift work with irregular meals and asks to minimize injections but is willing to take one daily if necessary. Which TWO medications are the most appropriate to initiate today to rapidly control hyperglycemia and align with first-line therapy for this presentation?","A) Metformin
+B) Glyburide (sulfonylurea)
+C) Sitagliptin (DPP-4 inhibitor)
+D) Liraglutide (GLP-1 receptor agonist)
+E) Pioglitazone (thiazolidinedione)
+F) Long-acting basal insulin (e.g., glargine)
+G) Acarbose (alpha-glucosidase inhibitor)
+H) Canagliflozin (SGLT2 inhibitor)
+I) Short-acting mealtime insulin (e.g., lispro)
+J) Repaglinide (meglitinide)","A, F"
+11,How does insulin work in type 2 diabetes?,"Insulin helps cells absorb glucose from the bloodstream; in type 2 diabetes, the response to insulin is diminished, necessitating higher levels for the same effect.","A 55-year-old man with type 2 diabetes on metformin has fasting plasma glucose 165 mg/dL, A1c 8.3%, fasting insulin 40 μU/mL (elevated), and C-peptide 4.2 ng/mL (elevated). BMI is 34 kg/m^2. You consider initiating basal insulin. Which TWO statements best explain both how insulin lowers glucose and why higher doses may be required in this patient?","A) The combination of hyperglycemia with elevated insulin indicates β-cell failure with low endogenous C-peptide output.
+B) Insulin lowers plasma glucose primarily by increasing peripheral glucose uptake via GLUT4 translocation in skeletal muscle and adipose tissue.
+C) In type 2 diabetes, insulin has no effect on hepatic gluconeogenesis, so fasting hyperglycemia cannot be corrected with insulin therapy.
+D) Hyperinsulinemia with persistent hyperglycemia suggests insulin resistance; higher insulin concentrations may be needed to achieve the same glycemic effect.
+E) The most immediate pharmacologic way to address this physiology is to add a sulfonylurea to increase kidney glucose excretion.
+F) Insulin’s main glucose-lowering action in adults is to stimulate pancreatic β-cells to secrete more insulin.
+G) Because insulin receptor number is permanently reduced in type 2 diabetes, increasing insulin dose will not acutely improve glycemia.
+H) Insulin therapy lowers glucose chiefly by inhibiting intestinal carbohydrate absorption.
+I) Insulin resistance in adults with type 2 diabetes is primarily due to anti-insulin antibodies that neutralize injected insulin.
+J) Exogenous insulin is ineffective unless combined with medications that block glucagon.","B, D"
+12,What are the long-term complications of type 2 diabetes?,"Complications include cardiovascular disease, nerve damage, kidney damage, eye problems (retinopathy), foot damage, and skin issues.","A 56-year-old man with a 12-year history of type 2 diabetes (A1c 9.1%) presents for follow-up. He reports burning pain and numbness in both feet. Exam shows absent vibration at the great toes and 0/10 monofilament sensation at the plantar metatarsal heads; there is a callus under the first MTP without cellulitis. Labs: urine albumin-to-creatinine ratio 120 mg/g (normal <30), eGFR 62 mL/min/1.73 m². Fundoscopy shows scattered microaneurysms without neovascularization. Which TWO of the following best represent long-term diabetic complications that most directly account for his neurologic and renal findings?","A) Distal symmetric polyneuropathy causing loss of protective sensation
+B) Hyperosmolar hyperglycemic state causing acute osmotic diuresis
+C) Diabetic nephropathy characterized by albuminuric chronic kidney disease
+D) Autoimmune small-fiber neuropathy due to vitamin B12 deficiency from metformin
+E) Proliferative diabetic retinopathy as the source of neuropathic pain
+F) Peripheral arterial disease causing loss of vibratory sense
+G) Diabetic dermopathy explaining the plantar callus
+H) Acute kidney injury from recent ACE inhibitor initiation
+I) Coronary atherosclerosis as the cause of microalbuminuria
+J) Necrobiosis lipoidica causing decreased eGFR","A, C"
+13,How often should I check my blood sugar levels?,Monitoring frequency varies based on treatment and individual goals; consult a healthcare provider for a personalised plan.,A 62-year-old man with type 2 diabetes (A1c 7.8%) on metformin and newly titrated basal insulin glargine 20 U nightly reports two symptomatic hypoglycemic episodes this week after dose increases. He does not use CGM and drives commercially. He asks how often to check his glucose. Which TWO recommendations best align with evidence-based practice for determining monitoring frequency?,"A) Use a fixed schedule of four checks daily indefinitely for all patients with diabetes, regardless of therapy or goals.
+B) Co-create an individualized SMBG/CGM plan with his clinician that accounts for insulin use, recent hypoglycemia, driving safety, lifestyle, and glycemic targets.
+C) In the short term, check more frequently (e.g., pre-meal and at bedtime, and before driving) during insulin titration or after hypoglycemia, then de-escalate once stable under clinician guidance.
+D) Because he is on basal insulin and has an A1c under 8%, weekly fasting checks are sufficient.
+E) If he starts CGM, he can stop confirmatory fingersticks and no longer needs clinician input to set frequency.
+F) Check only when symptomatic to avoid overtesting and anxiety.
+G) For diet-controlled type 2 diabetes with A1c <7%, universal advice is to avoid SMBG entirely.
+H) Defer all monitoring until the next 3-month A1c; interim SMBG does not change management.
+I) Use urine glucose/ketone strips after dinner as the primary guide for adjusting basal insulin dose.
+J) Let a smartphone app determine a generic monitoring schedule; clinician review is optional.","B, C"
+14,What is a healthy blood sugar range for someone with type 2 diabetes?,"Generally, A1C levels should be below 7 %, with blood glucose levels between 80-130 mg/dL before meals and under 180 mg/dL after meals.",You review SMBG logs and recent labs for several nonpregnant adults with type 2 diabetes. Which TWO profiles are at target per standard outpatient glycemic goals? Assume fasting/pre-meal values were measured appropriately and postprandial values are 2 hours after the start of a meal.,"A) Fasting 95 mg/dL; 2‑hr postprandial 170 mg/dL; A1C 6.9%
+B) Fasting 75 mg/dL; 2‑hr postprandial 160 mg/dL; A1C 6.5%
+C) Fasting 120 mg/dL; 2‑hr postprandial 185 mg/dL; A1C 6.8%
+D) Fasting 128 mg/dL; 2‑hr postprandial 178 mg/dL; A1C 7.1%
+E) Fasting 100 mg/dL; 2‑hr postprandial 180 mg/dL; A1C 6.6%
+F) Fasting 130 mg/dL; 2‑hr postprandial 179 mg/dL; A1C 7.0%
+G) Fasting 85 mg/dL; 2‑hr postprandial 165 mg/dL; A1C 6.4%
+H) Fasting 135 mg/dL; 2‑hr postprandial 175 mg/dL; A1C 6.9%
+I) Fasting 90 mg/dL; 2‑hr postprandial 200 mg/dL; A1C 6.7%
+J) Fasting 110 mg/dL; 2‑hr postprandial 150 mg/dL; A1C 7.2%","A, G"
+15,How can I prevent type 2 diabetes?,"Maintaining a healthy weight, regular physical activity, a balanced diet, and routine health check-ups can help prevent type 2 diabetes, especially if there are risk factors.","A 48-year-old woman (BMI 31 kg/m2) with a maternal history of type 2 diabetes seeks advice on prevention. She is sedentary and drinks one sugar-sweetened beverage daily. BP is 138/86 mmHg. Labs: fasting plasma glucose 104 mg/dL, A1c 5.8%, triglycerides 210 mg/dL, HDL 39 mg/dL. Which TWO of the following are the most appropriate first-line strategies to lower her short-term risk of progressing to type 2 diabetes?","A) Initiate a very-low-carbohydrate ketogenic diet with unlimited red meat and butter to accelerate weight loss
+B) Target 7–10% weight loss via calorie deficit plus ≥150 minutes/week of moderate aerobic activity and 2–3 days/week of resistance training
+C) Begin low-dose aspirin daily to reduce the risk of type 2 diabetes
+D) Replace refined grains with 100% fruit juice and smoothies to avoid “added sugars”
+E) Schedule glucose/A1c checks every 6–12 months and defer diet and exercise until labs worsen
+F) Adopt a Mediterranean-style eating pattern emphasizing vegetables, legumes, whole grains, nuts, fish, and limiting refined carbohydrates and sugar-sweetened beverages
+G) Start metformin now; lifestyle changes are unnecessary if medication is initiated early
+H) Use high–glycemic index snacks before workouts to stimulate insulin and “train” the pancreas
+I) Avoid resistance training to prevent weight gain from increased muscle mass
+J) Restrict sleep to <6 hours nightly to create time for early-morning exercise","B, F"
+16,Can stress affect blood sugar levels?,"Yes, stress can raise blood sugar levels due to stress hormones, affecting insulin effectiveness and glucose metabolism.",A 45-year-old man with type 2 diabetes (A1c 7.5%) on metformin 1000 mg twice daily and insulin glargine 18 units nightly reports CGM peaks to 230 mg/dL during high-pressure work presentations; fasting readings remain 95–110 mg/dL and meals/physical activity are unchanged. Serum cortisol drawn during one episode is elevated. Which TWO statements best explain this pattern and inform care?,"A) Acute surges in catecholamines and cortisol during psychological stress increase hepatic glucose output, causing transient hyperglycemia.
+B) Acute stress improves insulin sensitivity via adiponectin, thereby decreasing insulin requirements.
+C) Basal insulin should be universally reduced on stressful days to prevent hypoglycemia from counterregulatory hormone effects.
+D) Behavioral stress-reduction techniques have no clinically meaningful effect on glycemic variability and are not recommended for this pattern.
+E) Stress hormones antagonize insulin action at target tissues, increasing insulin resistance and raising glucose.
+F) The observed pattern is most consistent with dawn phenomenon.
+G) In individuals without diabetes, psychological stress cannot meaningfully alter circulating glucose due to tight homeostasis.
+H) Preemptive ingestion of 15 g carbohydrate before stressful events blunts catecholamine-induced hyperglycemia and is recommended here.
+I) Switching metformin dosing to bedtime will counteract these excursions by increasing insulin secretion during stress.
+J) Acute psychological stress commonly precipitates ketoacidosis in patients with near-goal A1c values.","A, E"
+17,Are there any natural remedies for type 2 diabetes?,"Some natural remedies (e.g., cinnamon, aloe vera) show promise but should not replace conventional treatments; always consult a healthcare provider.",A 56-year-old man with type 2 diabetes (A1c 8.1% on metformin 1000 mg twice daily; eGFR 80 mL/min/1.73 m²; ALT normal) asks whether “natural remedies” like cinnamon or aloe vera could be used instead of adding another medication. Which TWO counseling statements are most appropriate?,"A) Recommend discontinuing metformin and starting Ceylon cinnamon 2 g daily as monotherapy, with A1c reassessment in 3 months.
+B) Explain that evidence for cinnamon or aloe is limited and mixed; if he chooses to try them, use only as adjuncts to prescribed therapy with home glucose and A1c monitoring, and report any adverse effects.
+C) Approve aloe vera juice because it is natural and unlikely to interact with medications.
+D) Encourage him to discuss any supplement use with his clinician or pharmacist because product potency varies and interactions (e.g., with anticoagulants or hypoglycemics) can occur.
+E) Since A1c is above target, advise trying supplements first before intensifying antihyperglycemic therapy.
+F) Suggest switching from metformin to berberine, which has comparable efficacy and fewer gastrointestinal side effects.
+G) Recommend selecting products labeled “all-natural” to ensure safety and purity.
+H) If he insists on a trial of cinnamon, agree but stop self-monitoring glucose to avoid confusion from day-to-day variability.
+I) Advise adding cinnamon and doubling metformin now without contacting his healthcare team.
+J) Inform him that herbal therapies have been proven to lower A1c by at least 1% in most patients with minimal risk.","B, D"
+18,How do I read food labels for carbohydrate content?,"Look for total carbohydrates on the label, paying attention to serving size and choosing foods with lower added sugars and higher fibre content.","You are teaching carbohydrate counting to a patient using an insulin-to-carbohydrate ratio. The cereal they plan to eat lists per 2/3 cup (55 g): total carbohydrate 37 g (dietary fiber 4 g; total sugars 12 g, includes 9 g added sugars), protein 6 g. They usually eat 1 cup. Which two counseling points best reflect accurate interpretation of the label for dosing and healthier selection?","A) Base dosing on total carbohydrate scaled to the portion eaten; 1 cup ≈ 1.5 servings → ~56 g carbohydrate for dosing.
+B) Dose insulin using only the “total sugars” (12 g), since starch and fiber do not meaningfully affect glucose.
+C) Always subtract all fiber grams from total carbohydrate to calculate “net carbs” for insulin dosing.
+D) Use “added sugars” (9 g) as the primary number for dosing; starch is less relevant.
+E) When choosing products, prefer options with lower added sugars and higher fiber per serving.
+F) Only the 9 g of added sugar will affect postprandial glucose; the remaining carbohydrate can be ignored.
+G) Use grams of starch rather than total carbohydrate because starch has the highest glycemic effect.
+H) Calculate carbohydrate needs using the percent Daily Value (%DV) for carbohydrate on the label.
+I) Subtract protein grams from total carbohydrate to avoid overestimating insulin needs.
+J) Serving size is advisory; dose insulin for the amount you typically eat without doing label math.","A, E"
+19,What role does weight loss play in managing type 2 diabetes?,"Losing weight can improve insulin sensitivity and help control blood sugar levels, reducing the likelihood of complications.","A 54-year-old man with type 2 diabetes (A1c 8.3%, BMI 34 kg/m2) starts a structured nutrition and exercise program and loses 8% of his body weight over 6 months. His fasting glucose falls from 165 to 118 mg/dL, A1c to 7.1%, and triglycerides decrease. Which TWO statements best explain how weight loss contributed to improved glycemic control and future complication risk?","A) Increases hepatic gluconeogenesis to stabilize fasting glucose
+B) Induces pancreatic beta-cell apoptosis, reducing hyperinsulinemia
+C) Enhances skeletal muscle glucose uptake at a given insulin level, lowering fasting and postprandial glucose
+D) Raises counter-regulatory hormones (cortisol, glucagon), reducing hypoglycemia risk and A1c
+E) Lowers risk of microvascular complications by improving A1c through better insulin sensitivity
+F) Eliminates the need for glucose-lowering medications in all patients within weeks
+G) Improves glycemia solely by reducing carbohydrate intake, independent of changes in insulin sensitivity
+H) Increases subcutaneous fat preferentially, thereby improving insulin resistance
+I) Causes chronic hypoglycemia unless insulin doses are proactively increased
+J) Only benefits glycemic control if BMI is returned to <25 kg/m2","C, E"
+20,How can I avoid diabetic complications?,"Regular check-ups, blood sugar monitoring, a healthy lifestyle, medication adherence, and managing blood pressure and cholesterol levels are vital.","A 58-year-old man with type 2 diabetes (8 years) presents for routine care. He inconsistently takes metformin 1000 mg twice daily and rarely checks glucose. BP is 146/92 mmHg; BMI 31 kg/m². Labs: A1c 8.3%, LDL-C 142 mg/dL, HDL-C 38 mg/dL, triglycerides 210 mg/dL, eGFR 78 mL/min/1.73 m², urine albumin-to-creatinine ratio 45 mg/g. He has no known ASCVD. Which TWO interventions are most likely to reduce his risk of both microvascular and macrovascular diabetic complications over the next 3 years?","A) Intensify to basal–bolus insulin now to drive A1c <6.0% despite no severe hyperglycemia
+B) Initiate a high-intensity statin and implement diet/exercise to achieve ≥50% LDL-C reduction regardless of baseline LDL
+C) Schedule annual follow-ups only, given the chronic nature of his diabetes
+D) Check capillary glucose only when he “feels high or low,” without therapy adjustments
+E) Start low-dose aspirin solely because he has diabetes, regardless of bleeding risk
+F) Replace metformin with niacin to raise HDL and protect against CVD
+G) Use herbal supplements (e.g., cinnamon) to control glucose and lipids while deferring prescription therapy changes
+H) Start an ACE inhibitor and titrate to achieve BP <130/80 mmHg, with monitoring of creatinine and potassium
+I) Focus on weight loss alone and defer BP and lipid treatment until A1c <7%
+J) Increase frequency of eye and foot exams but postpone BP and LDL treatment for now","B, H"
+21,What lifestyle changes can help manage type 2 diabetes?,"Eating a balanced diet, regular physical activity, managing stress, and avoiding tobacco use are key changes.","A 52-year-old man with newly diagnosed type 2 diabetes (BMI 32 kg/m2) has A1c 8.1%, fasting glucose 168 mg/dL, triglycerides 220 mg/dL, and LDL-C 128 mg/dL. He smokes 10 cigarettes/day, is sedentary, has high job stress, and drinks 1–2 sugar-sweetened beverages most days. He is on metformin 1000 mg twice daily. Which two interventions are most likely to reduce A1c by approximately 0.5–1.0% within the next 3–6 months?","A) Replace table sugar with agave nectar and fruit juices as “natural” sweeteners
+B) Initiate ≥150 minutes/week of moderate-intensity aerobic activity plus 2–3 nonconsecutive days/week of resistance training, progressing as tolerated
+C) Adopt a zero-carbohydrate diet indefinitely to eliminate glucose spikes
+D) Start low-dose aspirin daily for primary prevention of cardiovascular disease
+E) Switch from cigarettes to e-cigarettes to reduce smoke exposure while continuing nicotine use
+F) Implement a calorie-controlled, balanced eating pattern emphasizing high-fiber, low–glycemic index carbohydrates, nonstarchy vegetables, lean protein, and unsaturated fats; eliminate sugar-sweetened beverages
+G) Manage stress by increasing caffeine intake and reducing sleep to create more time to exercise
+H) Concentrate all physical activity into vigorous “weekend warrior” sessions to meet weekly targets in two days
+I) Replace two meals daily with commercial “diabetes-friendly” shakes without dietitian oversight for the next six months
+J) Begin daily moderate alcohol intake (1–2 drinks) to improve insulin sensitivity","B, F"
+22,Is there a link between type 2 diabetes and heart disease?,"Yes, people with type 2 diabetes have a higher risk of cardiovascular disease due to shared risk factors like obesity and high blood pressure.","A 55-year-old man with a 6-year history of type 2 diabetes mellitus (BMI 33 kg/m2, BP 148/92 mmHg, A1c 7.6%, LDL 138 mg/dL, HDL 36 mg/dL, triglycerides 240 mg/dL) asks why his cardiologist says he is at higher risk for heart disease than his non-diabetic brother. Which TWO statements best explain his elevated cardiovascular risk and inform counseling about modifiable factors?","A) The predominant mechanism is autoimmune beta-cell destruction leading to coronary vasospasm.
+B) Insulin resistance clusters with central obesity, hypertension, and hypertriglyceridemia, increasing atherosclerotic risk independent of glucose levels.
+C) Diabetic patients have lower LDL oxidation, which reduces plaque formation compared with non-diabetics.
+D) Chronic hyperglycemia contributes to endothelial dysfunction and inflammation that accelerates atherosclerosis.
+E) If albuminuria is absent, diabetes does not increase macrovascular risk.
+F) Strict glucose control alone eliminates the excess cardiovascular risk in type 2 diabetes, making statins unnecessary.
+G) The observed link between type 2 diabetes and heart disease is explained solely by age and cannot be modified by treating blood pressure or weight.
+H) Obesity and hypertension are consequences of beta-blocker therapy and, unlike diabetes itself, do not contribute to cardiovascular risk.
+I) Triglyceride elevation and low HDL in type 2 diabetes are benign and do not affect coronary risk.
+J) Cardiovascular risk rises only when A1c exceeds 10%; at 7.6% his risk is the same as non-diabetic peers.","B, D"
+23,How does sleep affect type 2 diabetes?,"Poor sleep can lead to insulin resistance and affect hunger hormones, contributing to weight gain and higher blood sugar levels.","A 52-year-old man with type 2 diabetes (BMI 31 kg/m2) has been sleeping 4–5 hours per night for 3 months while caregiving. Since then, his weight increased by 4 kg, fasting glucose rose from 120 to 165 mg/dL, A1c from 7.1% to 8.2%, and fasting insulin from 12 to 28 µU/mL; he reports increased late-night hunger. Which physiologic changes most plausibly explain these findings?","A) Upregulation of ghrelin and downregulation of leptin leading to hyperphagia
+B) Increased skeletal muscle insulin sensitivity due to extended waking hours
+C) Reduced evening cortisol and sympathetic tone lowering hepatic gluconeogenesis
+D) Increased hepatic insulin resistance leading to higher fasting glucose
+E) Enhanced GLP-1 secretion improving postprandial glycemia
+F) Increased adiponectin due to sleep restriction
+G) Decreased proinflammatory cytokines with short sleep
+H) Improved beta-cell rest overnight reducing insulin requirements
+I) Decreased free fatty acid flux from adipose tissue with sleep loss
+J) Lowering of HOMA-IR consistent with improved insulin sensitivity","A, D"
+24,What are the best snacks for someone with type 2 diabetes?,"Healthy snacks include nuts, yogurt, raw vegetables with hummus, or small portions of fruit—balanced with protein and fibre.",A 58-year-old man with type 2 diabetes on metformin asks what to grab for a mid-afternoon snack from the hospital cafeteria. His goal is to avoid a sharp postprandial glucose rise (target <140 mg/dL at 2 hours) while staying satiated until dinner. Which TWO options best align with these goals?,"A) 16-oz fruit smoothie made with banana and orange juice
+B) 6-oz low-fat fruit yogurt with 22 g added sugar
+C) 3/4 cup plain Greek yogurt topped with cinnamon
+D) Two rice cakes drizzled with honey
+E) 1 cup raw vegetables (carrots, cucumbers) with 2 tbsp hummus
+F) 1 small apple by itself
+G) Granola bar made with oats and honey (28 g carbs, 9 g sugar)
+H) Trail mix, 1/2 cup, with dried fruit and chocolate chips
+I) Eight whole-grain crackers, no spread
+J) 12-oz “no added sugar” 100% grape juice","C, E"
+25,How often should I see my doctor if I have type 2 diabetes?,"Regular check-ups should generally be at least twice a year, with more frequent visits as needed based on the treatment plan.","A diabetes clinic is standardizing visit intervals for adults with type 2 diabetes. Which TWO of the following follow-up plans best reflect appropriate minimum visit frequency, taking into account stability of control and treatment intensity?","A) Stable T2DM on metformin monotherapy, A1C 6.8% for 18 months, BP and lipids at goal; schedule routine diabetes visits every 6 months.
+B) Newly diagnosed T2DM started on metformin; no hypoglycemia; plan first follow-up at 6–12 months to assess A1C.
+C) A1C 9.2% with recent initiation of basal insulin and ongoing titration; schedule in-person visits approximately every 1–3 months until control stabilizes.
+D) Stable T2DM on metformin with A1C 7.0%; because the patient checks SMBG daily and messages the clinic, in-person visits can be deferred to once every 2 years.
+E) Well-controlled T2DM on metformin and an SGLT2 inhibitor; seen by cardiology twice a year; diabetes-specific visits can be annual.
+F) A1C 7.3% on GLP-1 RA + metformin, tolerating therapy; schedule routine visits every 12 months with labs in between.
+G) Diet-controlled T2DM with A1C 6.4% for 2 years; because no medications are used, no routine diabetes visits are needed unless symptomatic.
+H) Poorly controlled T2DM (A1C 10.1%) refusing insulin; increase oral agents and schedule follow-up in 9–12 months to reassess.
+I) Pregnant patient with preexisting T2DM on insulin; maintain routine diabetes visits every 6 months because obstetrics will see her frequently.
+J) Post-discharge after severe hyperglycemia with new basal insulin and CGM; schedule only phone follow-ups every 6 months because CGM data are available remotely.","A, C"
+26,Can type 2 diabetes be hereditary?,"Yes, genetics plays a role in type 2 diabetes risk; having a family history can increase risk.",A 38-year-old woman (BMI 27 kg/m²) with A1c 5.6% and fasting glucose 98 mg/dL asks whether type 2 diabetes is “hereditary.” Her mother was diagnosed with type 2 diabetes at age 52; her father is unaffected. Which TWO statements best reflect evidence-based counseling about hereditary risk and prevention? Select TWO.,"A) Type 2 diabetes is typically inherited in an autosomal dominant pattern, conferring ~50% risk to each child.
+B) Having a first-degree relative with type 2 diabetes increases personal risk, independent of current BMI.
+C) If both parents are nondiabetic by age 60, genetic risk approximates the general population regardless of race/ethnicity.
+D) Only maternal family history is relevant because diabetes is transmitted via mitochondrial inheritance.
+E) Most type 2 diabetes arises from single-gene, high-penetrance mutations that cause early-onset disease.
+F) Being adopted into a family with diabetes increases genetic risk even if biological parents are unaffected.
+G) Genetic susceptibility interacts with lifestyle; structured weight loss and regular physical activity can substantially reduce progression risk despite a strong family history.
+H) Acanthosis nigricans in a child of a diabetic parent indicates inevitable future diabetes due to heredity.
+I) HLA haplotypes account for most familial clustering in type 2 diabetes.
+J) With normal A1c and fasting glucose, family history should not influence screening decisions until after age 45.","B, G"
+27,What tests will I need to monitor my diabetes management?,"Tests include A1C tests, lipid profiles, kidney function tests, and routine foot and eye exams.",A 55-year-old man with well-controlled type 2 diabetes (A1C 6.8% measured 2 months ago) on stable metformin and statin presents for routine follow-up. Last comprehensive foot exam was 4 months ago; dilated retinal exam 10 months ago with no retinopathy; lipid panel 14 months ago; serum creatinine/eGFR and urine albumin-to-creatinine ratio 13 months ago. He is asymptomatic. Which TWO monitoring tests are most appropriate to obtain today to guide diabetes management?,"A) Repeat A1C now
+B) Fasting lipid profile
+C) Serum fructosamine
+D) Serum creatinine with eGFR and urine albumin-to-creatinine ratio
+E) Urine ketones
+F) Dilated retinal exam now
+G) Comprehensive foot exam now
+H) TSH
+I) Vitamin B12 level
+J) Coronary artery calcium score","B, D"
+28,How does alcohol consumption impact type 2 diabetes?,"Alcohol can affect blood sugar levels; moderation is essential, and it's important to discuss alcohol use with a healthcare provider.","A 58-year-old man with type 2 diabetes (A1C 7.2%) takes metformin 1000 mg twice daily and glipizide 5 mg before dinner. Labs show normal renal and hepatic function. Before a wedding, his capillary glucose is 112 mg/dL; he plans to skip dinner and drink 3–4 beers. Which TWO counseling points are most appropriate?","A) Recommend no more than 2 standard drinks that evening, consume alcohol with a meal/snack, and monitor for delayed overnight hypoglycemia given sulfonylurea use.
+B) Encourage him to discuss alcohol use with his healthcare provider to individualize guidance based on medications and comorbid risk.
+C) Tell him to skip his diabetes medications so he can drink freely; this removes the risk of hypoglycemia.
+D) Because his pre-dinner glucose is normal, 3–4 beers on an empty stomach is acceptable.
+E) Light beer eliminates alcohol’s impact on glucose, so no special precautions are needed.
+F) Alcohol invariably raises blood glucose, so drinking without food is safer to prevent hypoglycemia.
+G) Distilled spirits have no effect on blood sugar, so routine monitoring is unnecessary.
+H) Advise total abstinence from alcohol for all patients with type 2 diabetes regardless of glycemic control.
+I) Tell him to hold metformin the day he plans to drink to prevent lactic acidosis.
+J) Because his A1C is controlled, alcohol counseling is unnecessary.","A, B"
+29,What are the signs of hypoglycaemia?,"Symptoms include shakiness, sweating, confusion, irritability, and in severe cases, seizures or loss of consciousness.",A 62-year-old inpatient with type 2 diabetes on a basal–bolus insulin regimen becomes combative and disoriented 90 minutes after a vigorous physical therapy session; he skipped his evening snack. Point-of-care glucose is 43 mg/dL. Which TWO additional findings would most support hypoglycaemia as the cause of his acute change in mental status?,"A) Polyuria over the past 24 hours
+B) Diaphoresis with cool, clammy skin
+C) Fruity (acetone) breath odor
+D) Kussmaul respirations
+E) Generalized tonic–clonic seizure
+F) Dry mucous membranes and poor skin turgor
+G) Unintentional weight loss over several weeks
+H) Flushed, dry skin
+I) Orthostatic hypotension due to volume depletion
+J) Pruritus with recurrent candidiasis","B, E"
+30,Can I eat bread if I have type 2 diabetes?,"Yes, but choose whole-grain and high-fibre options, and monitor portion sizes, as bread contains carbohydrates.",A 55-year-old man with type 2 diabetes (A1c 7.4%) reports fasting SMBG 110–120 mg/dL but 2-hour post-lunch readings of 180–195 mg/dL when he eats deli sandwiches on standard white bread (~25 g carbohydrate per slice). He wants to keep bread in his diet without worsening post-prandial hyperglycemia. Which two recommendations best align with evidence-based counseling to meet his goal?,"A) Replace white bread with gluten-free white bread; removing gluten reduces glycemic load, so portion limits are unnecessary.
+B) Choose 100% whole-grain or sprouted bread with ≥3–5 g fiber per slice and limit to about 1 slice (~15 g carb) at meals, checking post-meal glucose to assess response.
+C) Switch to sourdough; fermentation makes its glycemic impact negligible, so portion control is not needed.
+D) Keep using white bread if paired with lean protein and non-starchy vegetables; protein pairing eliminates the need to limit bread portions.
+E) Eliminate all bread permanently; any bread carbohydrate intake is contraindicated in type 2 diabetes.
+F) Prefer dark rye or pumpernickel freely; darker breads are inherently low in carbohydrates.
+G) Use “keto” breads labeled 0 g net carbs and disregard total carbohydrate when estimating glycemic impact.
+H) If including bread, count it within the meal’s carbohydrate target (e.g., 30–45 g/meal) and titrate portion using SMBG/CGM post-prandial readings.
+I) Choose multigrain bread with seeds regardless of fiber content; “multigrain” labeling ensures low glycemic effect.
+J) Eat bread only at bedtime to avoid daytime post-prandial hyperglycemia.","B, H"
+31,How does fibre intake affect blood sugar levels?,"High-fibre foods can slow the absorption of sugar, leading to better blood sugar control.","A 58-year-old man with type 2 diabetes uses glargine nightly and lispro 6 units 10 minutes before breakfast. On CGM, his usual white toast breakfast yields a peak of 220 mg/dL at 45 minutes. After switching to steel-cut oats with berries and chia seeds (label-matched total carbohydrate), his CGM shows a slower rise peaking at 160 mg/dL around 120 minutes, with a brief dip to 68 mg/dL at 30 minutes when he still doses lispro 10 minutes pre-meal. Which TWO statements best explain or guide management of this change?","A) Increasing soluble fiber intake before a carbohydrate-rich meal is expected to slow intestinal glucose absorption, producing a lower and later postprandial peak on CGM.
+B) High-fiber meals cause faster gastric emptying, so premeal insulin should always be given earlier than usual.
+C) Insoluble fiber is rapidly hydrolyzed to glucose, increasing postprandial hyperglycemia.
+D) Switching from white rice to lentils is unlikely to change glycemic excursions because fiber affects only fasting glucose.
+E) For patients using rapid-acting prandial insulin, high-fiber meals may warrant adjusting bolus strategy (e.g., giving insulin at meal start or splitting the dose) to better match delayed absorption.
+F) Fiber supplementation acutely raises hepatic glucose output via gluconeogenesis, increasing fasting glucose the next morning.
+G) The glycemic index of a meal is unaffected by fiber content when total carbohydrates are constant.
+H) In people with type 2 diabetes on metformin alone, adding 10 g/day of soluble fiber will generally increase hypoglycemia risk.
+I) High-fiber foods reduce postprandial glucose only when eaten without protein or fat.
+J) In diabetic gastroparesis, very high-fiber meals reliably improve nutrient absorption and glycemic predictability.","A, E"
+32,What is the role of carbohydrates in a diabetic diet?,"Carbohydrates affect blood glucose levels, so managing carbohydrate intake is crucial for blood sugar control.",A 58-year-old man with type 2 diabetes on metformin and a basal–bolus insulin regimen has an A1c of 8.4%. CGM shows fasting glucose 90–110 mg/dL and 2-hour postprandial values of 220–260 mg/dL after meals rich in white rice and sweetened beverages. He asks how “carbs matter” for his control. Which two interventions most directly leverage the role of dietary carbohydrate to reduce his postprandial hyperglycemia?,"A) Increase basal insulin dose by 10% to better cover daytime carbohydrate exposure
+B) Begin carbohydrate counting and use an insulin-to-carbohydrate ratio for prandial dosing
+C) Replace all carbohydrate calories with protein to eliminate meal-related glucose excursions
+D) Choose lower–glycemic index, high-fiber carbohydrate sources and distribute total carbohydrate consistently across meals
+E) Start an SGLT2 inhibitor so medication offsets dietary carbohydrate without dietary changes
+F) Add a fixed “correction” dose of rapid-acting insulin 2 hours after meals without altering diet
+G) Switch exclusively to “sugar-free” products so carbohydrate will not affect glucose
+H) Count “net carbs” by subtracting all fiber and sugar alcohol grams because they have no glycemic effect
+I) Eliminate fruit because fructose spikes glucose more than starch
+J) Perform brief premeal exercise so carbohydrate no longer raises postprandial glucose","B, D"
+33,How does high blood pressure relate to type 2 diabetes?,High blood pressure is common in individuals with diabetes due to shared risk factors and can lead to cardiovascular complications.,A 57-year-old man with a 6-year history of type 2 diabetes (A1c 8.1%) and BMI 33 kg/m² presents with repeated clinic blood pressures around 152/94 mmHg. His urine albumin-to-creatinine ratio is 65 mg/g and LDL-C is 146 mg/dL. He asks how high blood pressure relates to his diabetes and why it matters for his heart health. Which statements best explain the linkage and inform counseling?,"A) Hypertension in type 2 diabetes is primarily caused by insulin therapy–induced sodium retention.
+B) Insulin resistance and central adiposity drive both hypertension and type 2 diabetes, explaining their frequent coexistence.
+C) Coexisting hypertension and type 2 diabetes reduce atherosclerotic cardiovascular risk compared with either alone due to competing risks.
+D) Achieving glycemic control eliminates the need to treat stage 1–2 hypertension in type 2 diabetes.
+E) Hypertension in type 2 diabetes is unrelated to renal disease or microalbuminuria.
+F) The combination of hypertension and type 2 diabetes substantially increases myocardial infarction and stroke risk; lowering blood pressure reduces cardiovascular events.
+G) The relationship between hypertension and type 2 diabetes is mediated solely by autoimmune beta-cell destruction.
+H) Hypertension is uncommon in type 2 diabetes patients with normal BMI.
+I) Elevated blood pressure in diabetes is clinically relevant mainly for retinopathy, not macrovascular disease.
+J) The link between hypertension and type 2 diabetes is primarily due to hypoglycemia-induced catecholamine surges.","B, F"
+34,What are the best types of exercise for managing type 2 diabetes?,"Aerobic exercises (like walking, cycling) and strength training improve insulin sensitivity and control blood sugar.","A 55-year-old man with type 2 diabetes (A1c 8.1%) on metformin, BMI 31, and no contraindications to exercise asks which routine would most directly improve insulin sensitivity and postprandial glycemia. Which two exercise prescriptions are most appropriate?","A) Brisk walking at 3.5–4.0 mph (RPE 12–13, “can talk but not sing”) for 30 min, 5 days/week (≥150 min/week)
+B) Static stretching and range-of-motion exercises for 20 minutes daily with no other training
+C) One weekly high-intensity interval cycling session (10×1-minute @ ~90% HRmax with 1-minute recovery)
+D) Strolling at a leisurely pace for 10 minutes twice weekly
+E) Progressive, whole-body resistance training 2–3 nonconsecutive days/week (2–3 sets of 8–12 reps to moderate fatigue)
+F) Restorative yoga focused on flexibility and breathing, 3 sessions/week
+G) Fasting “fat-burning” low-intensity cardio for 60 minutes once weekly to avoid hypoglycemia
+H) Isometric handgrip and wall-sit training for 15 minutes, 3 days/week
+I) Near-maximal powerlifting one day per week
+J) Sauna sessions for 20 minutes after dinner, 4 days/week","A, E"
+35,Can type 2 diabetes lead to kidney problems?,"Yes, diabetes is a leading cause of kidney disease due to damage to the blood vessels in the kidneys.","A 55-year-old man with a 10-year history of type 2 diabetes presents with A1c 9.1%, blood pressure 150/92 mmHg, urine albumin-to-creatinine ratio 80 mg/g (normal <30), and eGFR 90 mL/min/1.73 m². Funduscopic exam shows background diabetic retinopathy. Which TWO statements best explain the link between his diabetes and current kidney findings and the most appropriate initial step to reduce progression risk?","A) Chronic hyperglycemia leads to nonenzymatic glycation and microvascular injury of glomerular capillaries, causing albuminuria despite preserved eGFR.
+B) Initiate an ACE inhibitor to lower intraglomerular pressure and albuminuria in hypertensive diabetic kidney disease.
+C) Albuminuria with normal eGFR is most likely exercise-induced; defer treatment and recheck in one year.
+D) SGLT2 inhibitors are contraindicated when albuminuria is present because they can worsen renal perfusion.
+E) The mechanism is immune complex deposition analogous to post-streptococcal glomerulonephritis.
+F) Tight glycemic control will not affect renal outcomes once albuminuria has developed.
+G) NSAIDs are preferred to reduce glomerular hyperfiltration in early diabetic nephropathy.
+H) Diabetic nephropathy is primarily a macrovascular complication; prioritize carotid imaging over renal-directed therapy.
+I) Normal eGFR excludes clinically significant diabetic kidney disease.
+J) A high-protein diet is recommended to reduce albuminuria by maintaining oncotic pressure.","A, B"
+36,How can I improve my insulin sensitivity?,"Weight loss, regular physical activity, a balanced diet low in processed foods, and managing stress can all improve insulin sensitivity.","A 52-year-old man with type 2 diabetes (A1c 8.1%), BMI 33 kg/m2, triglycerides 260 mg/dL, HDL 36 mg/dL, BP 132/84 mmHg, fasting glucose 154 mg/dL, and fasting insulin 28 μU/mL (elevated HOMA-IR) asks how to increase his insulin sensitivity over the next 3 months. He is on metformin 1000 mg twice daily, does no structured exercise, and consumes mostly ultra-processed foods and sugar-sweetened beverages. Independent of weight loss, which TWO interventions are most likely to increase insulin sensitivity?","A) Initiate basal insulin with titration to a fasting glucose target of 90–110 mg/dL
+B) Engage in ≥150 minutes/week of moderate-intensity aerobic activity plus resistance training at least 2 days/week
+C) Replace refined grains and added sugars with high-fiber, minimally processed foods emphasizing legumes, vegetables, whole grains, lean proteins, and unsaturated fats
+D) Add a sulfonylurea to augment endogenous insulin secretion
+E) Adopt a ketogenic diet high in saturated fats without regard to total caloric intake
+F) Switch to “low-fat” packaged snacks and diet sodas while keeping the rest of the diet unchanged
+G) Start high-dose omega-3 (fish oil) supplementation
+H) Begin daily sauna sessions to lower stress hormones
+I) Take 1–2 tablespoons of apple cider vinegar before meals
+J) Sleep 5–6 hours/night to create time for early-morning workouts","B, C"
+37,Is continuous glucose monitoring helpful for type 2 diabetes?,Continuous glucose monitoring (CGM) can offer real-time insights into blood sugar trends and improve management.,"A 58-year-old with type 2 diabetes on metformin 1000 mg BID and bedtime insulin glargine 26 units has an A1c of 8.4% and variable SMBG values (fasting 90–170 mg/dL, pre-dinner 140–220 mg/dL). He reports occasional post-lunch shakiness and has not checked overnight glucose. He asks whether continuous glucose monitoring (CGM) would help. Which TWO statements best support using CGM to improve his management?","A) By providing real-time trend arrows and hypoglycemia alerts, CGM can uncover and help prevent post-lunch and nocturnal lows, supporting safer titration of basal dose and meal timing.
+B) CGM will replace all capillary glucose testing and eliminate the need for A1c monitoring.
+C) CGM is only indicated for type 1 diabetes or patients on multiple daily injections.
+D) Because his A1c is 8.4%, CGM will automatically deliver insulin to reduce it without behavioral or medication changes.
+E) CGM data can reveal glucose responses to specific meals and exercise, enabling targeted education and medication adjustments to reduce variability.
+F) In type 2 diabetes treated with basal insulin only, CGM is too inaccurate to detect overnight hypoglycemia.
+G) CGM primarily tracks ketone trends, so its main use is early detection of impending DKA in type 2 diabetes.
+H) Short-term professional CGM provides no actionable information unless the patient scans the sensor every 5 minutes.
+I) Regular CGM use inevitably causes hypoglycemia unawareness due to alarm desensitization.
+J) CGM should be avoided with metformin because the drug interferes with sensor accuracy.","A, E"
+38,How do I create a meal plan for type 2 diabetes?,"Consider portion sizes, carbohydrate counting, and including a variety of foods; consulting a registered dietitian can be very helpful.",A 55-year-old man with type 2 diabetes (A1c 8.1%) on metformin asks for help building a sustainable meal plan that improves postprandial glucose while allowing his cultural foods. His fasting SMBG averages 150 mg/dL; BMI is 31 kg/m^2; kidney function is normal. Which TWO actions are the most appropriate next steps to create an effective meal plan?,"A) Implement carbohydrate counting with consistent portion sizes using the plate method, targeting ~45–60 g carbohydrate per meal and 15–20 g per snack, and adjust based on SMBG
+B) Eliminate all grains, starchy vegetables, and fruit to remove dietary glucose sources
+C) Prioritize only low–glycemic index foods and ignore total carbohydrate grams if the GI is low
+D) Replace meals with frequent very low-carbohydrate snacks to avoid postprandial excursions
+E) Start sliding-scale insulin before meals to cover carbohydrate intake since metformin is inadequate
+F) Focus solely on total daily calories; carbohydrate counting is unnecessary if a caloric deficit is achieved
+G) Refer to a registered dietitian for individualized, culturally appropriate medical nutrition therapy and meal planning
+H) Begin a strict ketogenic diet (<20 g carbs/day) as the default first-line nutrition strategy for all patients with type 2 diabetes
+I) Use cinnamon and apple cider vinegar supplements to blunt postprandial glucose spikes instead of structured meal planning
+J) Avoid variety by eating the same fixed foods daily to simplify glucose control","A, G"
+39,What is the impact of refined sugars on blood sugar levels?,Refined sugars can cause rapid spikes in blood sugar and should be limited in a diabetic diet.,"A 52-year-old with type 2 diabetes on metformin uses a CGM. After a lunch of white-bread sandwich, 16-oz sweetened iced tea, and a cookie, her glucose rises from 110 to 220 mg/dL within 90 minutes. The next day, after grilled chicken salad, an apple, and unsweetened tea, her peak is 145 mg/dL. Which two statements best explain the pattern and guide counseling?","A) Refined sugars and white flour have a low glycemic index that produces delayed, gradual glucose rises.
+B) The sweetened tea and dessert’s refined sugars were rapidly absorbed, driving the sharp postprandial hyperglycemia.
+C) Non-nutritive sweeteners in diet beverages have the same immediate glycemic effect as 40 g of sucrose.
+D) High dietary fat was the primary cause of the early spike by accelerating gastric emptying.
+E) Substituting honey or brown sugar for table sugar would prevent such spikes because they are “natural” sugars.
+F) Counseling should prioritize limiting refined sugars and choosing high-fiber, minimally processed carbs with protein/fat to blunt glycemic excursions.
+G) The appropriate advice is to avoid all carbohydrates entirely to prevent postprandial hyperglycemia.
+H) Whole fruit causes larger and faster glucose rises than an equivalent carbohydrate load from fruit juice or soda.
+I) Increasing basal insulin alone is the most appropriate first step to address these meal-related spikes.
+J) Taking metformin immediately before the meal will neutralize the glycemic impact of refined sugars.","B, F"
+40,How can I deal with diabetes burnout?,"Seek support from healthcare providers, connect with others who have diabetes, and consider speaking with a mental health professional if needed.","A 28-year-old woman with type 1 diabetes for 10 years reports feeling “exhausted by diabetes,” has missed several boluses, and her A1c rose from 7.2% to 8.9% over 6 months. CGM data show decreased scanning and frequent high alerts; she denies self-harm. PHQ-2 is positive. Which two clinician actions are the most appropriate initial steps to address diabetes burnout and improve engagement?","A) Increase basal insulin by 20% and tighten CGM alarm thresholds to drive better adherence
+B) Validate her experience, screen for depression/anxiety, and offer referral to a behavioral health professional experienced in chronic illness
+C) Review complication photos and emphasize the need for perfect control to restore motivation
+D) Facilitate connection with a diabetes peer-support group or group education program to reduce isolation
+E) Recommend a 2-week “diabetes vacation” by pausing glucose monitoring to lower stress
+F) Initiate a strict ketogenic diet to simplify mealtime insulin decisions
+G) Set stricter glycemic targets and implement remote monitoring alerts to increase accountability
+H) Discontinue CGM and revert to twice-daily fingersticks to decrease data overload
+I) Prescribe a short course of benzodiazepines for situational distress
+J) Encourage following social media influencers with excellent A1c as inspiration","B, D"
+41,Can children get type 2 diabetes?,"Yes, the incidence of type 2 diabetes in children is increasing, especially with rising obesity rates.","A 12-year-old boy with BMI at the 98th percentile presents with 3 months of polydipsia and polyuria. Exam reveals acanthosis nigricans. Fasting plasma glucose is 136 mg/dL and A1c is 6.9%. Regarding type 2 diabetes in children, which TWO statements are most accurate?","A) Type 2 diabetes is essentially nonexistent below age 18 and should not be considered until adulthood
+B) Rising pediatric obesity has contributed to a marked increase in type 2 diabetes diagnoses among adolescents
+C) Children cannot develop insulin resistance; hyperglycemia in youth is almost always autoimmune
+D) Screening for type 2 diabetes should never be performed before age 18, regardless of BMI or risk factors
+E) Acanthosis nigricans in an obese adolescent suggests insulin resistance and increased risk for type 2 diabetes
+F) Metformin is contraindicated in patients younger than 18 years
+G) Type 2 diabetes in youth never presents with ketoacidosis
+H) Lifestyle modification has no role in preventing or managing pediatric type 2 diabetes
+I) Puberty is characterized by increased insulin sensitivity, lowering type 2 diabetes risk in teens
+J) The incidence of pediatric type 2 diabetes is declining due to improved screening","B, E"
+42,What is the role of cholesterol in type 2 diabetes management?,Maintaining healthy cholesterol levels is important to prevent cardiovascular complications.,"A 55-year-old man with type 2 diabetes (A1c 7.2% on metformin), BP 128/78 mmHg on an ACE inhibitor, LDL-C 138 mg/dL, HDL-C 38 mg/dL, triglycerides 240 mg/dL, eGFR 72 mL/min/1.73 m², and normal ALT asks how “cholesterol” fits into his diabetes care. Which TWO actions best reduce his diabetes-related cardiovascular risk specifically through lipid management?","A) Initiate high-intensity statin therapy (e.g., atorvastatin 40–80 mg) now
+B) Use ezetimibe instead of a statin to avoid statin-related glucose increases
+C) Start fenofibrate primarily to reduce myocardial infarction risk given triglycerides 240 mg/dL
+D) Counsel a Mediterranean-style pattern emphasizing reduced saturated/trans fats and increased soluble fiber to lower LDL-C
+E) Delay lipid therapy until A1c is <6.5% because glycemic control comes first
+F) Prescribe niacin to raise HDL-C and improve outcomes
+G) Recheck lipids in 6 months and treat only if LDL-C exceeds 160 mg/dL
+H) Begin icosapent ethyl 4 g/day as monotherapy to reduce ASCVD risk
+I) Switch the ACE inhibitor to a thiazide to improve the lipid profile
+J) Recommend red yeast rice instead of a statin to minimize side effects","A, D"
+43,How does type 2 diabetes affect mental health?,"People with type 2 diabetes may experience anxiety or depression, which can affect diabetes management.","A 58-year-old man with type 2 diabetes has an A1c increase from 7.2% to 9.1% over 6 months without changes in his medication regimen. He reports anhedonia, insomnia, worry about complications, missed glucose checks, and inconsistent meals with nighttime overeating. His PHQ-9 is 14 and GAD-7 is 12. Which statements best explain how his mental health is likely affecting his diabetes management and how you should respond?","A) Depressive and anxiety symptoms are common in type 2 diabetes and can impair self-care behaviors (e.g., SMBG, medication adherence, nutrition), contributing to hyperglycemia.
+B) Treating depression has no meaningful impact on diabetes outcomes; intensifying antihyperglycemics alone is sufficient.
+C) Systematic screening and treating mood/anxiety (e.g., CBT or collaborative care) can improve adherence and A1c.
+D) Anxiety typically lowers A1c because sympathetic activation increases glucose utilization.
+E) Only severe depression (PHQ-9 ≥20) meaningfully affects adherence; moderate depression does not.
+F) Diabetes distress is synonymous with major depressive disorder and should be treated only with antidepressants.
+G) SSRIs uniformly worsen glycemic control by causing hyperglycemia in most patients.
+H) Mindfulness-based stress reduction has no role in glycemic management.
+I) His hyperglycemia invariably explains new-onset psychosis as the driver of poor adherence.
+J) Long-term benzodiazepines are first-line for anxiety in diabetes to improve glycemic control.","A, C"
+44,What are the best foods for breakfast if you have type 2 diabetes?,"Good options include oatmeal, whole-grain toast with protein, Greek yogurt, and fruits with high fibre.","A 55-year-old with type 2 diabetes (A1c 7.9%) on metformin 1,000 mg twice daily notes CGM peaks to ~210 mg/dL for >2 hours after breakfast, especially when meals contain >50 g carbohydrate or added sugars. She wants a 300–400 kcal breakfast that keeps 1–2 hour postprandial glucose <180 mg/dL by emphasizing low glycemic load (~30–35 g carbohydrate), ≥10 g protein, and ≥5 g fiber. Which TWO breakfast choices best meet these goals?","A) 3/4 cup cooked steel-cut oatmeal made with water, topped with 2 tbsp chia seeds, 1/2 cup blueberries, and cinnamon
+B) 1 packet instant maple–brown sugar oatmeal prepared with 1 cup 2% milk; sliced banana and raisins
+C) Large fruit smoothie made with orange juice, banana, mango, honey; granola sprinkled on top
+D) 6 oz plain Greek yogurt (2%) with 1/4 cup walnuts, 1/2 cup raspberries, and cinnamon
+E) Two slices whole-wheat toast with jam plus 8 oz orange juice
+F) Two eggs, turkey sausage, and three small pancakes with syrup
+G) Sweetened vanilla Greek-yogurt parfait with 1/2 cup granola and honey
+H) Bran flakes cereal with skim milk and a banana
+I) Avocado toast on thick white sourdough with a poached egg and a flavored latte
+J) Whole-grain bagel with cream cheese and a bunch of grapes","A, D"
+45,Can I still enjoy sweets if I have type 2 diabetes?,"Yes, but moderation is key. Balance sweet treats with carbohydrate intake and monitor blood sugar levels.","A 52-year-old man with type 2 diabetes on metformin 1000 mg BID has HbA1c 7.2%. His fasting SMBG is 95–110 mg/dL and 2-hour postprandials are typically 140–170 mg/dL. At a family dinner he plans grilled chicken, salad, rice (~60 g carbohydrate), and wants a slice of birthday cake (~45 g carbohydrate). He usually targets 60–75 g carbohydrate at dinner and wants to keep his 2-hour post-meal glucose under 180 mg/dL. Which TWO strategies best allow him to enjoy dessert while maintaining glycemic control?","A) Reduce other carbohydrate portions at that meal so total carbs stay within his usual target and choose a smaller dessert portion.
+B) Check a CGM trend or fingerstick before and ~2 hours after dessert to learn his glycemic response and adjust future portions.
+C) Take an extra dose of metformin immediately before dessert to “cover” the sugar.
+D) Use honey or coconut sugar in the cake so it won’t affect glucose and portion size need not change.
+E) Skip earlier meals that day to “save up” carbs for dessert at dinner.
+F) Count only sugars; starches like rice do not meaningfully affect postprandial glucose.
+G) Choose “sugar-free” dessert and eat freely because it won’t impact blood glucose.
+H) Substitute high-fructose corn syrup for sucrose in the dessert to minimize glucose spikes.
+I) Hold his evening basal insulin on the day he eats dessert to avoid overnight hypoglycemia.
+J) Rely solely on glycemic index; if the dessert is low-GI, portion size no longer matters.","A, B"
+46,What should I do if my blood sugar is too high?,"Take prescribed medications, drink water, increase physical activity, and monitor levels closely. Consult your healthcare provider for guidance.","A 45-year-old with type 2 diabetes on metformin 1,000 mg BID and a prescribed rapid-acting insulin correction scale checks a pre-supper capillary glucose of 312 mg/dL. She is mildly thirsty but has no nausea, vomiting, abdominal pain, or mental status changes, and she cannot check ketones at home. Vital signs are normal. Which TWO immediate self-management steps are most appropriate before considering further medical contact?","A) Administer the prescribed rapid-acting correction dose per plan and recheck glucose in about 2 hours.
+B) Drink 16–24 ounces (0.5–0.7 L) of water over the next hour.
+C) Perform vigorous interval training for 30 minutes to lower glucose quickly.
+D) Skip all insulin now to avoid hypoglycemia and recheck in the morning.
+E) Double tonight’s basal insulin dose to “catch up.”
+F) Drink a glass of orange juice to stimulate insulin release.
+G) Take an extra metformin dose now even though it’s not scheduled.
+H) Immediately call 911 for emergency transport.
+I) Withhold fluids to avoid dilutional hyponatremia.
+J) Contact the diabetes provider urgently if glucose remains >250 mg/dL after two correction doses or if symptoms suggest DKA.","A, B"
+47,Are there specific vitamins or supplements that help with diabetes?,"Some supplements, like vitamin D and omega-3s, may help; however, it’s crucial to discuss any supplement use with your healthcare provider.","A 55-year-old man with type 2 diabetes (A1c 7.8%) and BMI 31 kg/m2 asks whether vitamins or supplements could help his diabetes. Medications: metformin and atorvastatin 40 mg daily; he takes no anticoagulants. Labs: triglycerides 320 mg/dL, LDL-C 68 mg/dL, HDL-C 35 mg/dL, eGFR 78 mL/min/1.73 m2, 25-hydroxyvitamin D 14 ng/mL, serum magnesium 1.9 mg/dL. He has no neuropathic symptoms. Which TWO of the following are the most appropriate recommendations to discuss and consider at this visit?","A) Initiate vitamin D3 repletion (e.g., 50,000 IU weekly with follow-up level) given deficiency, coordinated with his clinician
+B) Discuss starting prescription-strength omega-3 therapy (e.g., icosapent ethyl 2 g BID) to address hypertriglyceridemia
+C) Begin cinnamon 2 g daily to lower A1c
+D) Add chromium picolinate to improve insulin sensitivity
+E) Use high-dose vitamin E for cardiovascular protection
+F) Start alpha-lipoic acid 600 mg daily to prevent future neuropathy
+G) Empirically start magnesium supplementation despite normal level to improve glycemic control
+H) Avoid all supplements categorically because they are uniformly ineffective and unsafe in diabetes
+I) Add red yeast rice to further lower LDL while continuing atorvastatin
+J) Start prescription niacin to raise HDL and improve cardiovascular risk","A, B"
+48,What is diabetic retinopathy and how is it connected to type 2 diabetes?,Diabetic retinopathy is eye damage from high blood sugar affecting the retina; regular eye exams are vital.,"A 56-year-old with type 2 diabetes for 8 years has A1C 8.6%, BP 146/88 mmHg, and normal visual acuity; he denies floaters or blurred vision. Which TWO statements best explain the pathophysiology and appropriate screening for his ocular risk?","A) Diabetic retinopathy is an autoimmune optic neuritis unrelated to glycemic control.
+B) Chronic hyperglycemia causes retinal microvascular injury (e.g., microaneurysms, hemorrhages, ischemia) that may be asymptomatic early.
+C) Retinal screening can be deferred until the patient develops visual symptoms or acuity declines.
+D) Only patients treated with insulin require annual dilated retinal examinations.
+E) Once present, diabetic retinopathy progresses regardless of glucose or blood pressure control.
+F) Annual dilated retinal examination (or validated retinal photography) is recommended even without symptoms.
+G) Elevated intraocular pressure is the defining lesion of diabetic retinopathy.
+H) Hyperosmolar hyperglycemic state is necessary for retinopathy to develop.
+I) Diabetic retinopathy primarily involves corneal epithelial breakdown leading to recurrent erosions.
+J) After cataract surgery, retinopathy screening is no longer needed.","B, F"
+49,How does gestational diabetes relate to type 2 diabetes later in life?,Women with gestational diabetes have a higher risk of developing type 2 diabetes later in life.,"A 32-year-old woman, 8 weeks postpartum after insulin-treated gestational diabetes, presents for follow-up. She is breastfeeding, BMI 31 kg/m², and asymptomatic. A 75-g OGTT today is normal (fasting glucose 86 mg/dL, 2-hour 118 mg/dL); HbA1c is 5.1%. Which TWO statements are most accurate regarding her long-term metabolic risk and surveillance?","A) Her lifetime risk for type 2 diabetes remains elevated compared with peers, reflecting persistent beta-cell vulnerability unmasked by pregnancy.
+B) A normal postpartum OGTT indicates her future type 2 diabetes risk returns to baseline; no additional screening beyond routine preventive care is needed.
+C) In the first 12 weeks postpartum, annual HbA1c alone is preferred over an OGTT for surveillance because pregnancy alters red cell turnover.
+D) She should undergo lifelong diabetes screening at least every 1–3 years even if postpartum glycemia normalizes.
+E) Metformin should be started now in all women with prior gestational diabetes to prevent type 2 diabetes, regardless of current glycemia.
+F) Because insulin was required during pregnancy, she has already transitioned to type 2 diabetes and should begin chronic therapy.
+G) Lifestyle interventions (weight loss, physical activity) have not been shown to reduce progression to type 2 diabetes after gestational diabetes.
+H) Normal maternal glucose after delivery eliminates the child’s increased risk of obesity and glucose intolerance.
+I) If she maintains a stable weight, her risk of gestational diabetes in a future pregnancy is no higher than the general population.
+J) Screening is needed only within the first postpartum year; thereafter her diabetes risk aligns with the general population.","A, D"
+50,What should I know about diabetes and skin care?,"Keep skin clean and moisturised, treat cuts promptly, and watch for slow-healing wounds or infections.","A 58-year-old man with type 2 diabetes (A1c 9.2%) and distal neuropathy reports very dry, itchy shins in winter. He nicked his calf while shaving two days ago; it is a 0.5-cm superficial abrasion with a dry scab and no drainage. He also has a 2-cm heel blister present for one week with 1 cm of surrounding erythema and warmth; temperature 37.2°C, WBC 8.5 × 10^9/L. Which two recommendations are most appropriate today to reduce skin complications?","A) Apply a fragrance-free emollient daily after lukewarm bathing to improve xerosis, avoiding application between the toes.
+B) Leave the 2-day-old shaving abrasion uncovered so it can dry out faster.
+C) Clean the heel blister gently with mild soap and water, cover with a sterile dressing, and seek prompt medical evaluation given redness/warmth and a week of nonhealing.
+D) Use hydrogen peroxide or povidone-iodine on the blister twice daily until it resolves.
+E) Take hot showers and use vigorous scrubbing to remove dry skin scales.
+F) Delay care for the heel lesion because there is no fever or leukocytosis; reassess in two weeks.
+G) Apply a high-potency topical corticosteroid to the blister to speed resolution.
+H) Moisturize generously between the toes to prevent cracking.
+I) Soak the feet in hot water with Epsom salts nightly to keep skin clean.
+J) Cover the heel blister with a tight, occlusive bandage and leave it unchanged for one week.","A, C"
+51,How can I manage diabetes while travelling?,"Plan ahead, pack medications and snacks, monitor blood sugar regularly, and stay active.","A 55-year-old man with type 2 diabetes on metformin and nightly insulin glargine (A1c 7.5%) is taking a 10-hour international flight across five time zones. His pre-boarding glucose is 92 mg/dL, and he reports one recent hypoglycemic episode. Which TWO of the following are the most appropriate strategies to maintain glycemic control during travel?","A) Carry all diabetes supplies (insulin, glucose meter/CGM, needles, and fast-acting carbs) in your carry-on with backups; avoid placing insulin in checked baggage.
+B) Reduce your basal insulin dose by 50% on the travel day without additional monitoring to prevent in-flight hypoglycemia.
+C) Skip meals during the flight to minimize postprandial hyperglycemia.
+D) Check glucose more frequently during travel (e.g., pre-boarding, every 2–4 hours in-flight, and at landing), and treat readings <70 mg/dL with rapid-acting carbohydrates.
+E) Rely on symptoms rather than meter/CGM readings at altitude because devices are inaccurate on planes.
+F) Perform vigorous exercise in the terminal before boarding without carbohydrate intake despite a pre-boarding glucose of 92 mg/dL to ""burn off"" glucose.
+G) Keep insulin pens in direct contact with ice packs throughout the flight to ensure they stay as cold as possible.
+H) Place backup insulin and supplies in checked luggage to avoid carry-on liquid restrictions and TSA scrutiny.
+I) Drink alcohol to aid sleep on the plane and take long walks during layovers to improve insulin sensitivity.
+J) Switch to a high-protein, zero-carbohydrate diet for the travel day to simplify glucose control and dosing.","A, D"
+52,Can my diabetes medication change over time?,"Yes, treatment plans may change with blood sugar trends, lifestyle, or side effects.","A 56-year-old man with type 2 diabetes on metformin 1000 mg twice daily and glipizide 10 mg daily has an A1c that rose from 7.0% to 8.4% over 9 months. He recently began training for a 10K and reports three glucose readings around 55 mg/dL during runs. He has gained 6 kg (BMI 34 kg/m2), notes persistent metformin-related GI upset that limits adherence, and has eGFR 48 mL/min/1.73 m2. Which TWO changes to his diabetes medication plan best address his evolving clinical context?","A) Continue current regimen and recheck A1c in 6 months after reinforcing adherence
+B) Replace glipizide with a GLP-1 receptor agonist with cardiovascular benefit and titrate to minimize nausea
+C) Increase glipizide dose to target fasting glucose <80 mg/dL given the rising A1c
+D) Switch metformin to immediate-release to improve absorption and weight loss
+E) Add basal insulin at bedtime without altering the sulfonylurea since A1c >8%
+F) Stop metformin due to eGFR 48 mL/min/1.73 m2
+G) Switch to metformin extended-release or reduce metformin dose to improve GI tolerance and adherence
+H) Start an SGLT2 inhibitor and double the sulfonylurea because SGLT2s are ineffective below eGFR 60
+I) Advise him to stop running to prevent hypoglycemia rather than changing medications
+J) Add pioglitazone for weight loss and to reduce hypoglycemia risk","B, G"
+53,What should I discuss with my healthcare provider regarding type 2 diabetes?,"Discuss blood sugar goals, medication options, lifestyle changes, and any health concerns.","A 54-year-old with type 2 diabetes (A1c 8.2%) on metformin 1 g BID has BMI 33 kg/m², eGFR 58 mL/min/1.73 m², BP 138/86 mmHg, fasting SMBG 110–150 mg/dL, and postprandial peaks to 220 mg/dL. He has a 15-minute follow-up to optimize control. Which TWO discussion topics would most directly guide immediate management changes to improve glycemic control at this visit?","A) Agree on individualized A1c and glucose targets (fasting and postprandial), balancing hypoglycemia risk and comorbidities.
+B) Review medication intensification options (e.g., GLP‑1 receptor agonist or SGLT2 inhibitor) considering A1c 8.2%, BMI 33, eGFR 58, and cost/side effects.
+C) Request discontinuation of metformin because an eGFR of 58 mL/min/1.73 m² is a contraindication.
+D) Set a universal A1c goal below 6.0% to match non-diabetic levels.
+E) Ask for a PRN sliding-scale rapid-acting insulin regimen without changing baseline therapy.
+F) Focus the visit on ordering testosterone and vitamin D levels as primary drivers of hyperglycemia.
+G) Ask to switch to glyburide as first add-on since it causes more potent glucose lowering with minimal hypoglycemia risk.
+H) Plan to eliminate all carbohydrates, including fruit and whole grains, to normalize glucose within two weeks.
+I) Defer medication discussion until after several months because lifestyle changes always precede therapy adjustments regardless of A1c.
+J) Stop blood pressure discussion since 138/86 mmHg is unrelated to diabetes control.","A, B"
+54,How do I handle dining out with diabetes?,"Review menus, choose healthy preparations, control portions, and track carbs.",A 55-year-old man with type 2 diabetes on metformin and prandial lispro (insulin-to-carb ratio 1:12 g; correction factor 1:50 mg/dL >120) is headed to an Italian restaurant for a work dinner. His CGM shows 142 mg/dL with a flat trend. He wants to minimize postprandial hyperglycemia without skipping the social aspects of the meal. Which TWO actions are most appropriate to prioritize tonight?,"A) Check the restaurant menu online and plan a grilled or baked protein with non-starchy sides; request sauces/dressings on the side.
+B) Skip lunch to “save carbs” and arrive hungrier to justify a larger dinner.
+C) Choose whole-wheat pasta and eat a full portion because complex carbohydrates will have minimal glycemic impact.
+D) Use a carb-counting app but exclude breading and sauces from the estimate since they are mostly fat.
+E) Pre-bolus double the usual mealtime insulin dose to preempt any spike, regardless of the final carb total.
+F) Order “gluten-free” pizza assuming it is lower in carbohydrates than regular options.
+G) Start with fried calamari because seafood is generally low in carbohydrates.
+H) Drink a 12-oz regular soda before the meal to prevent “rebound” hypoglycemia from rapid-acting insulin.
+I) Share an entrée or ask for half to be boxed at the start to help manage portion size.
+J) Avoid all carbohydrates and skip mealtime insulin to prevent any postprandial glucose rise.","A, I"
+55,What resources are available for education and support for managing type 2 diabetes?,"Resources include the ADA website, local diabetes education programmes, support groups, and nutrition workshops.","A 58-year-old with newly diagnosed type 2 diabetes (A1c 8.4%, BMI 32) has started metformin. He asks for comprehensive, evidence-based self-management education (monitoring, hypoglycemia prevention, nutrition, physical activity, medication skills) and reliable materials he can review at home with his spouse; he has stable internet and needs flexible scheduling. Which TWO resources most directly meet his needs now?","A) American Diabetes Association (ADA) website with downloadable patient education and self-management tools
+B) Accredited Diabetes Self-Management Education and Support (DSMES) program led by certified diabetes care and education specialists at a local clinic
+C) One-time “low-carb” nutrition workshop run by a personal trainer at a gym
+D) Peer-led community diabetes support group meeting weekly
+E) Routine endocrinology clinic follow-ups every 3 months focused on medication adjustment
+F) Bariatric surgery information session offered by the hospital’s surgical weight-loss center
+G) Insulin manufacturer smartphone app and nurse helpline for titrating basal insulin doses
+H) Online social media forums for people living with type 2 diabetes
+I) Device-company meter training at a community pharmacy on using his glucometer
+J) Commercial meal-replacement weight-loss program promising rapid A1c reduction","A, B"
+56,What ethnicities are at highest risk for type 2 diabetes?,"African-, Hispanic/Latino-, Native-, Asian-Americans, and Pacific Islanders face higher risk.","You are triaging 32-year-old primary-care patients for type 2 diabetes screening using ADA criteria: screen adults of any age who are overweight (BMI ≥25 kg/m2, or ≥23 kg/m2 if Asian American) AND have at least one risk factor, including high-risk race/ethnicity. All patients below are normotensive, physically active, and have no family history or other risk factors. Which TWO should be screened today based on ethnicity-associated risk?","A) Non-Hispanic white man, BMI 28.0
+B) African American woman, BMI 26.0
+C) Hispanic/Latina woman, BMI 24.0
+D) Vietnamese-American man, BMI 22.5
+E) American Indian/Alaska Native man, BMI 23.8
+F) Middle Eastern woman, BMI 29.0
+G) Non-Hispanic white woman, BMI 24.5
+H) Native Hawaiian man, BMI 25.5
+I) Japanese-American woman, BMI 22.8
+J) Ashkenazi Jewish man, BMI 26.0","B, H"
+57,How much does diabetes cost the US each year?,Over $400 billion was spent on diabetes in the US in 2022.,A state health department asks you to sanity-check several draft statements for a public report interpreting recent U.S. estimates of the annual economic burden of diabetes in 2022. Which TWO statements would you allow to stand as written?,"A) Based on a U.S. population near 330 million, the national economic burden equates to roughly $1,000–$1,500 per person in 2022.
+B) With U.S. GDP about $25 trillion in 2022, diabetes accounted for close to 10% of GDP.
+C) Describing 2022 spending as ""over four-tenths of a trillion dollars annually"" is accurate.
+D) The direct medical spending portion alone must have exceeded $400 billion in 2022.
+E) Any national projection citing ~$300 billion total cost for 2022 is likely an overestimate.
+F) Saying ""the U.S. spent under $200 billion on diabetes in 2022"" would be consistent with recent estimates.
+G) A 1% reduction in national diabetes costs would save on the order of $400 million per year.
+H) Employee out-of-pocket spending by people with diabetes exceeded $400 billion in 2022.
+I) Characterizing the cost as ""tens of billions of dollars"" is acceptable for lay communication.
+J) The estimate implies monthly spending of about $20–25 billion on diabetes in 2022.","A, C"
+58,What does it mean if someone can’t afford their insulin?,It means they may use less insulin or skip doses due to high costs.,"A 28-year-old man with type 1 diabetes presents with 3 months of polyuria, 6-lb weight loss, and fatigue after losing employer-sponsored insurance. His A1c rose from 7.6% to 10.8%. Pharmacy data show one 10-mL vial of rapid-acting insulin dispensed over 6 weeks and no basal insulin for 2 months. He admits “stretching my insulin” and sometimes skipping doses to save money. Vitals are stable; mucous membranes are dry. Labs: glucose 348 mg/dL, bicarbonate 18 mEq/L, anion gap 16, serum ketones small positive, eGFR normal. Which TWO of the following are the most appropriate clinical interpretations or next steps?","A) He is at increased risk for diabetic ketoacidosis due to insulin rationing and should receive urgent safety counseling, ketone monitoring guidance, and a plan for timely insulin access.
+B) The presentation is most consistent with the Somogyi effect from unrecognized nocturnal hypoglycemia; reducing basal insulin would likely lower his A1c.
+C) Initiating metformin monotherapy could replace insulin temporarily and prevent ketosis until affordability improves.
+D) Screening explicitly for cost-related insulin rationing is indicated, as financial barriers commonly drive dose omission and underuse.
+E) Adding an SGLT2 inhibitor would decrease glucose and lower the risk of ketoacidosis in type 1 diabetes patients who are rationing insulin.
+F) Advising him to conserve insulin by taking prandial doses only and stopping basal is appropriate because basal insulin has minimal impact on ketoacidosis risk.
+G) Because the anion gap is only 16 and ketones are “small,” insulin underdosing is unlikely to be clinically significant.
+H) Upgrading to a continuous glucose monitor typically reduces insulin requirements enough to offset medication costs.
+I) Using concentrated U-500 regular insulin will lower out-of-pocket cost per unit and is preferred in type 1 diabetes.
+J) Switching to lower-cost human insulin from analogs without tailored education or follow-up is a reasonable immediate fix for this situation.","A, D"
+59,Is insulin cheaper now for people on Medicare?,"Yes, Medicare now limits insulin costs to $35 per month.",A 68-year-old woman with type 2 diabetes is enrolled in a stand-alone Medicare Part D plan. She uses insulin glargine U-100 and insulin aspart in pen form and typically fills 90-day supplies. She has not met her deductible and expects to enter the coverage gap later this year. She asks whether insulin is cheaper now and what that means at the pharmacy counter. Which statements are accurate under current Medicare policy?,"A) Because she has not met her deductible, she will pay the full negotiated price for insulin until the deductible is met; the $35 cap applies only afterward.
+B) Her out-of-pocket cost for each 30-day supply of a Part D–covered insulin is capped at $35, regardless of deductible, initial coverage, or coverage gap.
+C) The $35 monthly cap applies only to human regular and NPH insulins, not analog insulins like glargine or aspart.
+D) If she fills a 90-day supply of insulin glargine, the maximum she will pay is $35 total for the entire 90 days.
+E) The cap applies only to beneficiaries enrolled in Medicare Advantage plans, not stand-alone Part D plans.
+F) If she uses an insulin pump covered under Medicare Part B, insulin furnished through the pump is also capped at $35 for a 1-month supply.
+G) Supplies such as pen needles and syringes are included in the $35 cap when dispensed with insulin.
+H) The $35 limit also applies to non-insulin glucose-lowering injectables (e.g., GLP-1 receptor agonists) when covered by Part D.
+I) The $35 cap applies per beneficiary per month, regardless of the number of insulin products used.
+J) The cap is temporary and currently applies only to fills dated in 2022.","B, F"
+60,Do different diabetes tests always agree?,"No, different tests can sometimes give different results.","Several patients are evaluated for diabetes using fasting plasma glucose (FPG), hemoglobin A1c (A1c), and/or a 2-hour oral glucose tolerance test (OGTT). Which TWO options depict plausible discordance between common tests and the most appropriate immediate interpretation/action?","A) FPG 128 mg/dL today and 124 mg/dL next week; A1c 6.6%. Conclude diabetes because both tests are above diagnostic thresholds.
+B) FPG 132 mg/dL on two separate mornings; A1c 6.3%; normal hemoglobin and eGFR. Diagnose diabetes based on two abnormal FPGs while recognizing A1c can be lower; no need for A1c concurrence.
+C) 2-hour OGTT 203 mg/dL and A1c 6.6% in a patient with sickle cell trait. Because A1c is less variable, diagnose diabetes using A1c alone.
+D) Random plasma glucose 215 mg/dL with polyuria and polydipsia; A1c 5.9%. Not diabetes because A1c is <6.5%.
+E) FPG 118 mg/dL; A1c 6.8% in iron deficiency anemia (MCV 72 fL, ferritin 8 ng/mL). Treat anemia or use glucose-based confirmation (repeat FPG or OGTT) before labeling diabetes, as A1c may be spuriously high.
+F) A1c 6.5% one day and 6.4% the next; declare no diabetes because the tests are discordant.
+G) 2-hour OGTT 198 mg/dL and A1c 6.4%. Both indicate prediabetes; not discordant, manage as high risk.
+H) CKD stage 4 on erythropoietin; A1c 5.4%; FPG 133 mg/dL. Rely on A1c because kidney disease distorts glucose-based tests.
+I) Within 2 weeks of a packed RBC transfusion: A1c 6.7%; 2-hour OGTT 180 mg/dL. Diagnose diabetes based on A1c alone.
+J) 24 hours after high-dose methylprednisolone: A1c 5.7%; random glucose 320 mg/dL with polyuria. Not diabetes because the A1c is below 6.5%.","B, E"
+61,Can someone have both type 1 and type 2 diabetes features?,"Yes, a person can have overlapping features of both types.","Which TWO scenarios best represent patients who simultaneously exhibit hallmark type 1 autoimmunity and type 2 insulin resistance (the “double diabetes” spectrum), influencing both early insulin use and strategies to reduce insulin resistance?","A) A 23-year-old lean man with new-onset DKA, high-titer GAD65 and IA-2 antibodies, fasting C-peptide 0.1 ng/mL, and no acanthosis nigricans
+B) A 48-year-old woman (BMI 31) with A1c 8.7%, positive GAD65 antibodies, fasting C-peptide 0.5 ng/mL, and a father with type 2 diabetes who needs basal insulin within months of diagnosis
+C) A 55-year-old woman (BMI 38) with acanthosis nigricans, A1c 9.2%, negative islet antibodies, and fasting C-peptide 3.0 ng/mL
+D) A 35-year-old man of African ancestry presenting with DKA, negative islet antibodies, who discontinues insulin 6 weeks later with fasting C-peptide 3.2 ng/mL
+E) A 29-year-old man with chronic pancreatitis, steatorrhea, low fecal elastase, and fasting C-peptide 0.2 ng/mL
+F) A 17-year-old with type 1 diabetes since age 9, now BMI 35 with acanthosis, triglycerides 350 mg/dL, HDL 34 mg/dL, and insulin needs >1.2 U/kg/day
+G) A 30-year-old at 28 weeks’ gestation with new hyperglycemia, negative islet antibodies, and postpartum normalization of glucose
+H) A 24-year-old woman with autosomal dominant early-onset diabetes, negative islet antibodies, low hs-CRP, and strong response to low-dose sulfonylurea
+I) A 40-year-old with generalized lipodystrophy, severe hypertriglyceridemia, marked insulin resistance, and negative islet antibodies
+J) A 52-year-old kidney transplant recipient on tacrolimus who develops hyperglycemia with negative islet antibodies","B, F"
+62,Can some cancer treatments cause diabetes?,"Yes, certain cancer immunotherapy drugs can trigger type 1 diabetes.","A 58-year-old man with metastatic melanoma on pembrolizumab for 12 weeks presents with polyuria, vomiting, and confusion. Vitals: BP 102/64 mmHg, HR 112. Labs: glucose 612 mg/dL, bicarbonate 12 mEq/L, anion gap 22, venous pH 7.19, positive serum ketones, C-peptide 0.2 ng/mL (low). His pre-treatment HbA1c was 5.4%; today it is 7.3%. Which TWO statements are most accurate regarding the cause and expected clinical pattern of his diabetes?","A) High-dose peri-chemotherapy dexamethasone most commonly causes immune-mediated β-cell destruction leading to absolute insulin deficiency.
+B) PD-1/PD-L1 checkpoint blockade can precipitate abrupt autoimmune β-cell failure, often debuting as DKA with very low C-peptide.
+C) BCR-ABL tyrosine kinase inhibitors frequently cause permanent autoimmune type 1 diabetes.
+D) Holding the checkpoint inhibitor and giving high-dose prednisone typically reverses the diabetes within weeks.
+E) Detection of islet autoantibodies (e.g., GAD) is necessary to confirm the diagnosis in this setting.
+F) CTLA-4 blockade (e.g., ipilimumab) is also implicated in new-onset insulin-dependent diabetes due to immune-related adverse events.
+G) The pathophysiology is primarily insulin resistance; metformin is preferred initial therapy.
+H) L-asparaginase is the prototypical immunotherapy causing autoimmune type 1 diabetes in melanoma.
+I) Pancreatic radiation is the usual mechanism by which immunotherapy leads to diabetes in solid tumors.
+J) A very high HbA1c at presentation is expected because immunotherapy-induced diabetes develops gradually over many months.","B, F"
+63,Is type 2 diabetes the most common form?,"Yes, type 2 diabetes accounts for about 90–95 % of cases.","A primary care network serves 20,000 adult patients; 10% have diagnosed diabetes. The team must choose which education modules to print first for new diagnoses. Based on epidemiology of diabetes types in adults, which TWO planning assumptions are most defensible?","A) Approximately 1,800–1,900 of these adults with diabetes are likely to have type 2 diabetes.
+B) Most adults will require diabetes autoantibody testing to correctly classify their diabetes.
+C) Because most cases are type 1, the clinic should prioritize insulin pump onboarding materials.
+D) Educational materials should focus primarily on intensive insulin carbohydrate counting, as this applies to most new adult cases.
+E) A standard first-line curriculum emphasizing lifestyle modification and metformin will be applicable to most newly diagnosed adults.
+F) Pediatric outreach should be prioritized because most diabetes cases occur in children.
+G) Gestational diabetes accounts for the majority of diabetes in this adult population.
+H) Screening efforts should center on anti-GAD antibody testing to detect most undiagnosed diabetes.
+I) Nearly equal numbers of type 1 and type 2 diabetes are expected among adults.
+J) Because type 2 diabetes is relatively uncommon, complication counseling should be deferred until type is confirmed.","A, E"
+64,When should an adult get tested for diabetes?,Adults should be tested by age 35 and sooner if overweight or obese with other risk factors.,"Based on current adult screening recommendations for type 2 diabetes, which two patients should be screened today?","A) 34-year-old man, BMI 24 kg/m², BP 118/72 mmHg, no family history of diabetes
+B) 32-year-old woman, BMI 31 kg/m², runs 4 days/week, BP 120/78 mmHg, no family history
+C) 29-year-old man, BMI 28 kg/m², smoker, BP 120/80 mmHg, no family history
+D) 31-year-old woman, BMI 27 kg/m², HDL 58 mg/dL, TG 120 mg/dL, BP 122/78 mmHg
+E) 30-year-old man, BMI 23 kg/m², African American, BP 118/74 mmHg
+F) 33-year-old woman, BMI 32 kg/m², BP 146/92 mmHg on lisinopril
+G) 28-year-old woman, BMI 24 kg/m², diagnosed with PCOS, BP 114/70 mmHg
+H) 35-year-old man, BMI 23 kg/m², BP 118/72 mmHg
+I) 24-year-old man, BMI 30 kg/m², no additional risk factors, father with hypertension
+J) 27-year-old woman, BMI 26 kg/m², non-Hispanic White, physically active, BP 116/76 mmHg","F, H"
+65,What is pancreatic diabetes?,"Diabetes caused by damage or removal of the pancreas, leading to digestion and blood-sugar problems.","You are reviewing charts of patients with new or worsening hyperglycemia. Which two vignettes most strongly indicate pancreatic (type 3c) diabetes due to pancreatic damage/removal with concurrent digestive impairment, rather than type 1 or type 2 diabetes?","A) 56-year-old man, BMI 33, acanthosis nigricans, fasting insulin elevated, HbA1c 8.3%, no steatorrhea, fecal elastase 340 µg/g (normal).
+B) 24-year-old woman presenting in DKA with positive GAD65 antibodies; normal pancreatic imaging; fecal elastase 290 µg/g.
+C) 47-year-old man with long-standing alcohol-related chronic pancreatitis and pancreatic calcifications; fecal elastase 75 µg/g; oily stools; HbA1c 9.1% despite metformin.
+D) 65-year-old woman on high-dose prednisone for vasculitis; new hyperglycemia; fecal elastase 260 µg/g; no weight loss or malabsorption.
+E) 39-year-old man 6 months after distal pancreatectomy for trauma; now with brittle hyperglycemia, low C-peptide, fecal elastase 90 µg/g, steatorrhea, and low vitamins A/D.
+F) 72-year-old man with hereditary hemochromatosis (ferritin 1800 ng/mL) and diabetes; fecal elastase 310 µg/g; normal stool fat.
+G) 31-year-old woman with PCOS and prior gestational diabetes; fasting glucose 142 mg/dL; CT shows normal pancreas; no GI complaints.
+H) 52-year-old woman after cholecystectomy with postprandial diarrhea; HbA1c 8.0%; fecal elastase 250 µg/g.
+I) 16-year-old boy with type 1 diabetes and biopsy-proven celiac disease; chronic diarrhea improves on gluten-free diet; fecal elastase 280 µg/g.
+J) 70-year-old man after Roux-en-Y gastric bypass with postprandial hypoglycemia and loose stools; fecal elastase 300 µg/g.","C, E"
+66,When should people with cystic fibrosis be screened for diabetes?,Start annual OGTT screening at age 10 if diabetes hasn’t been diagnosed.,Which of the following plans aligns with recommended screening for cystic fibrosis–related diabetes (CFRD) in patients without known diabetes? Select TWO.,"A) A 9-year-old with CF and stable weight: begin annual OGTT this year.
+B) A 10-year-old with CF, asymptomatic and A1c 5.4%: schedule a 2-hour OGTT now and repeat yearly.
+C) A 12-year-old with CF: perform random glucose and A1c annually; reserve OGTT only if abnormal.
+D) A 14-year-old with CF hospitalized for a pulmonary exacerbation: defer diabetes screening until adulthood because A1c is unreliable in CF.
+E) A 25-year-old with CF and no prior diabetes: stop screening because risk peaks in adolescence.
+F) A 16-year-old with CF whose last OGTT (normal) was 14 months ago: repeat OGTT now and continue annually.
+G) An 8-year-old with CF: obtain annual A1c and fasting glucose until age 10, then consider OGTT.
+H) A 10-year-old with CF on nocturnal tube feeds: replace the annual OGTT with CGM for screening.
+I) An 11-year-old with CF receiving intermittent steroids: screen only during steroid courses with capillary glucose; delay OGTT until age 18.
+J) A 13-year-old with CF, fasting glucose 103 mg/dL and A1c 5.1%: no annual diabetes screening is needed.","B, F"
+67,What is new-onset diabetes after a transplant (NODAT)?,Diabetes that begins after receiving an organ transplant.,Which of the following scenarios best fits the definition of new-onset diabetes after transplant (NODAT)?,"A) A 62-year-old with known type 2 diabetes prior to a kidney transplant now requiring higher insulin doses postoperatively.
+B) A 45-year-old with no prior diabetes, 3 months after a liver transplant, with fasting plasma glucose 135 mg/dL on two separate mornings and HbA1c 6.8%.
+C) A 53-year-old 4 days after a kidney transplant on high-dose steroids with a single random glucose of 210 mg/dL that normalizes by week 2.
+D) A 59-year-old 6 months after a heart transplant with fasting glucose 118 mg/dL and a 2-hour OGTT of 158 mg/dL.
+E) A 40-year-old 2 weeks after a lung transplant with a random glucose of 190 mg/dL, asymptomatic, and HbA1c 5.4%.
+F) A 50-year-old 1 year after a kidney transplant (no prior diabetes) on tacrolimus with polyuria/polydipsia and a random glucose of 225 mg/dL.
+G) A 36-year-old with remote gestational diabetes, now 3 months post–liver transplant, with HbA1c 6.3%.
+H) A 55-year-old 1 month after a heart transplant on tapering prednisone with fasting glucoses 110–124 mg/dL.
+I) A 62-year-old 4 months after a kidney transplant with fasting glucoses 130 mg/dL once and 122 mg/dL on repeat; HbA1c 6.1%.
+J) A 28-year-old with prior type 1 diabetes who received a pancreas transplant and now has fasting glucose 95 mg/dL.","B, F"
+68,When should doctors suspect monogenic diabetes?,"When diabetes lacks typical type 1 or type 2 features, consider monogenic causes.",Which TWO of the following scenarios should most strongly prompt evaluation for monogenic diabetes rather than classic type 1 or type 2 diabetes?,"A) A 14-year-old boy with polyuria, weight loss, DKA at diagnosis, and positive GAD and IA-2 antibodies
+B) A 45-year-old woman (BMI 36 kg/m²) with acanthosis nigricans, hypertriglyceridemia, and A1c 9.2%
+C) A 25-year-old man (BMI 22 kg/m²) with incidental A1c 6.9%, fasting glucoses 130–150 mg/dL documented since adolescence, father and paternal grandmother diagnosed with diabetes in youth, negative GAD/IA-2/ZnT8 antibodies, and C-peptide 2.3 ng/mL at glucose 180 mg/dL
+D) A 50-year-old man with chronic calcific pancreatitis, steatorrhea, and new-onset diabetes
+E) A 3-month-old infant with persistent hyperglycemia (glucose 320 mg/dL), low C-peptide, and negative islet autoantibodies
+F) A 35-year-old woman with slowly progressive hyperglycemia, positive GAD antibodies, and low C-peptide
+G) A 60-year-old man who developed hyperglycemia while on high-dose prednisone for temporal arteritis
+H) A 40-year-old lean man with ketosis-prone diabetes, negative autoantibodies, and very low C-peptide at diagnosis
+I) A 19-year-old woman (BMI 33 kg/m²) with acanthosis nigricans and maternal history of type 2 diabetes
+J) A 28-year-old woman with cystic fibrosis and new-onset diabetes during pulmonary exacerbation","C, E"
+69,What are the main goals of the Diabetes Prevention Program lifestyle plan?,Lose ≥ 7 % body weight and do 150 minutes of moderate activity weekly.,"A 54-year-old with prediabetes (A1c 5.9%, fasting glucose 106 mg/dL), BMI 33 kg/m², and weight 100 kg asks for specific, evidence-based targets modeled on the Diabetes Prevention Program (DPP) lifestyle intervention. Which TWO of the following best reflect the core DPP lifestyle goals you should set?","A) Reduce BMI to <25 kg/m² within 12 months
+B) For a 100-kg starting weight, target ≥7 kg of intentional weight loss
+C) Accumulate 10,000 steps per day as the primary exercise goal
+D) Perform ≥150 minutes per week of moderate-intensity aerobic activity (e.g., brisk walking)
+E) Do 75 minutes per week of vigorous activity in place of moderate activity to meet the DPP target
+F) Prioritize resistance training only, 3 days per week, with no aerobic component
+G) Aim for ≥10% weight loss to reverse prediabetes
+H) Lose ≥5% of body weight over 12 months
+I) Adopt a ketogenic diet (<50 g/day of carbohydrates) as the key DPP strategy
+J) Start metformin 850 mg twice daily as first-line prevention","B, D"
+70,Do certain diets lower my risk of type 2 diabetes?,"Yes, vegetarian, plant-based, and DASH diets are linked to lower risk.","A 45-year-old woman (BMI 31 kg/m2) with fasting glucose 106 mg/dL, A1c 5.8%, triglycerides 210 mg/dL, and HDL 38 mg/dL asks which sustainable dietary pattern would most reliably reduce her 5-year risk of progressing to type 2 diabetes, beyond effects from calorie counting. Which TWO options below have the strongest evidence for lowering incident type 2 diabetes when implemented as whole-food patterns?","A) Whole-food, plant-based diet emphasizing legumes, vegetables, whole grains, nuts; minimal refined carbs and animal products
+B) DASH diet high in fruits/vegetables and low-fat dairy; limits sodium, sweets, and red/processed meats
+C) Very-low-carbohydrate ketogenic diet high in saturated fat and animal products
+D) Lacto-ovo vegetarian diet centered on refined grains, fried foods, and sugar-sweetened beverages
+E) Gluten-free diet in a person without celiac disease, using refined gluten-free products
+F) 16:8 time-restricted eating with ad libitum ultra-processed foods during eating windows
+G) “Mediterranean” pattern centered on white bread, cheese, and unrestricted alcohol with minimal legumes/vegetables
+H) Paleolithic diet heavy in red meat and eggs; excludes grains/legumes; limited fruits/vegetables
+I) Low-fat, high–glycemic index diet (white rice, potatoes, fruit juice) with minimal fiber
+J) Carnivore, high-protein diet excluding all plant foods","A, B"
+71,Does exercise help if I have pre-diabetes?,"Yes, brisk walking 150 min/week improves health and lowers progression risk.","A 52-year-old woman with BMI 29 kg/m2, HbA1c 6.1%, and fasting glucose 108 mg/dL asks whether exercise will help her prediabetes and what exactly to do. Which TWO recommendations most directly lower her risk of progressing to type 2 diabetes?","A) Encourage 150 minutes per week of moderate-intensity aerobic activity such as brisk walking, spread over ≥3 days with no more than 2 consecutive days off.
+B) Recommend only vigorous-intensity activity totaling 60 minutes per week to avoid hypoglycemia.
+C) Advise that exercise will not help unless she first loses at least 10% of her body weight.
+D) Suggest walking at a leisurely pace for 150 minutes per week, which is equivalent to brisk walking for diabetes prevention.
+E) Prescribe 30 minutes of brisk walking five days per week.
+F) Recommend strength training only, avoiding aerobic activity to minimize glucose fluctuations.
+G) Tell her that exercise may improve blood pressure and lipids but does not affect diabetes progression risk.
+H) Accumulate all 150 minutes of activity in a single weekend day; this is equally effective for glycemic control as spreading it out.
+I) If she cannot meet 150 minutes per week initially, advise her not to start exercising to reduce injury risk.
+J) Prescribe 150 minutes per week of moderate-intensity activity but explain this will not lower diabetes risk, only improve cardiorespiratory fitness.","A, E"
+72,Does sleep affect my diabetes risk?,Both too little and too much sleep raise risk; ~7 hours is optimal.,"You are designing sleep counseling for adults with prediabetes (A1c 5.7–6.4%). Best evidence shows a U-shaped association between habitual sleep duration and incident type 2 diabetes, with the lowest risk near 7 hours per night, independent of BMI and activity levels. Which TWO recommendations below best align with this evidence?","A) Advise a patient averaging 5–6 hours/night to extend to about 7 hours/night to lower diabetes risk.
+B) Tell a patient averaging 9.5–10 hours/night that longer sleep is protective and should be maintained.
+C) For a patient sleeping 7 hours/night with A1c 5.8%, recommend reducing to 6 hours/night to improve insulin sensitivity.
+D) For a shift worker who sleeps 5 hours on workdays and 9 hours on off-days (weekly average ≈7 hours), reassure that sleep duration is not a risk factor if the average is near 7 hours.
+E) Encourage a patient sleeping 8 hours/night to extend to 9–10 hours/night to further reduce diabetes risk.
+F) If a patient exercises ≥300 minutes/week, explain that sleep duration no longer affects diabetes risk.
+G) For a patient sleeping 10–11 hours/night with persistent fatigue and normal TSH, screen for depression or sleep apnea and counsel a target of ~7 hours/night.
+H) Recommend polyphasic napping to compensate for a 5-hour main sleep, as total 24-hour sleep time normalizes diabetes risk.
+I) Reassure a patient with fasting glucose 96 mg/dL that sleep duration has minimal impact on future diabetes risk.
+J) For a patient sleeping 7 hours/night but feeling sleepy, reduce to 6 hours/night to improve sleep efficiency and lower diabetes risk.","A, G"
+73,Can taking metformin long-term cause vitamin deficiencies?,"Yes, prolonged use may cause vitamin B12 deficiency.","A 62-year-old with type 2 diabetes on metformin 1000 mg twice daily for 8 years presents with fatigue and new bilateral foot paresthesias. Exam shows decreased vibration sense in the toes. Labs: Hb 10.2 g/dL, MCV 105 fL, ferritin 90 ng/mL, folate 10 ng/mL, TSH 2.0 mIU/L. Which TWO of the following are the most appropriate interpretations or next steps related to metformin use?","A) The anemia pattern is more consistent with iron deficiency due to metformin-induced iron malabsorption.
+B) Order serum vitamin B12 and methylmalonic acid to evaluate for metformin-associated B12 deficiency.
+C) Metformin commonly causes folate deficiency; begin folinic acid supplementation.
+D) The neuropathy is likely solely diabetic; metformin use does not meaningfully affect B12 status.
+E) Switching from metformin to a sulfonylurea will normalize the MCV within 24 hours.
+F) Continue metformin but supplement vitamin B12 if deficiency is confirmed.
+G) Normal folate level excludes vitamin B12 deficiency as a cause of macrocytosis.
+H) Routine vitamin D screening is specifically indicated because metformin reduces vitamin D absorption.
+I) A normal ferritin rules out vitamin B12–related anemia.
+J) Macrocytosis here is most consistent with pseudomacrocytosis from hyperglycemia; no further workup is needed.","B, F"
+74,Can cholesterol medicines (statins) increase my diabetes risk?,Statin therapy may slightly raise risk of type 2 diabetes in high-risk people.,"A 58-year-old man with hypertension, BMI 31 kg/m2, waist 110 cm, triglycerides 220 mg/dL, HDL 36 mg/dL, LDL 165 mg/dL, fasting glucose 108 mg/dL, and HbA1c 6.1% (prediabetes) has a 10-year ASCVD risk of 18%. He is considering a high-intensity statin and asks, “Will the statin give me diabetes?” Which TWO statements best guide counseling and management?","A) Statins do not affect glucose metabolism; his diabetes risk will be unchanged.
+B) Statins slightly increase the risk of developing type 2 diabetes, particularly in patients with prediabetes or metabolic syndrome like his.
+C) Because of this risk, statins are contraindicated until his HbA1c normalizes.
+D) If diabetes develops from statins, it is typically severe and offsets any cardiovascular benefit.
+E) Starting a high-intensity statin is appropriate given his ASCVD risk; plan to monitor fasting glucose or HbA1c after initiation.
+F) Switching to ezetimibe monotherapy would provide similar ASCVD risk reduction without diabetes risk.
+G) Only simvastatin increases diabetes risk; rosuvastatin and atorvastatin do not.
+H) Prophylactic metformin should be started solely to prevent statin-associated diabetes.
+I) The diabetes risk is large and independent of dose or patient risk factors.
+J) Niacin would be preferable to a statin because it lowers LDL without affecting glucose.","B, E"
+75,Does pre-diabetes affect my heart?,"Yes, pre-diabetes increases heart-disease risk and early mortality.","A 52-year-old man (BMI 29 kg/m2) presents for routine care. Labs: fasting plasma glucose 112 mg/dL, HbA1c 6.1%, triglycerides 180 mg/dL, LDL-C 118 mg/dL, BP 132/84 mmHg; he is a non-smoker. He asks, “Does prediabetes affect my heart?” Which TWO statements below are most accurate regarding cardiovascular implications?","A) Compared with normoglycemia, prediabetes confers a higher risk of myocardial infarction and stroke, even after adjusting for traditional risk factors.
+B) Cardiovascular risk attributable to dysglycemia becomes clinically relevant only once HbA1c is ≥6.5%.
+C) Asymptomatic patients with prediabetes should undergo routine cardiac stress testing to screen for silent ischemia.
+D) If his HbA1c is lowered to 5.6%, his long-term cardiovascular risk becomes equivalent to that of someone who never had prediabetes.
+E) Prediabetes is generally a benign finding and is not associated with premature mortality.
+F) The presence of prediabetes automatically qualifies him for high-intensity statin therapy regardless of calculated 10-year ASCVD risk.
+G) Prediabetes reduces cardiovascular risk if fasting glucose remains below 120 mg/dL, even when HbA1c is elevated.
+H) Prediabetes primarily increases microvascular complications but has no effect on macrovascular disease until diabetes develops.
+I) Prediabetes is associated with increased all-cause and cardiovascular mortality compared with normoglycemia.
+J) Standard ASCVD risk calculators explicitly incorporate prediabetes as a risk-enhancing factor that up-classes statin recommendations.","A, I"
+76,Why is lifestyle management important for diabetes?,Healthy habits and behavioural support are key for good control.,"A 52-year-old man with type 2 diabetes (4 years) on metformin 1000 mg twice daily has A1c 8.2%, BMI 33 kg/m², BP 146/88 mmHg, triglycerides 260 mg/dL, HDL 37 mg/dL, eGFR 75 mL/min/1.73 m², and urine albumin-to-creatinine ratio 80 mg/g. He is sedentary, consumes frequent refined carbohydrates, and drinks 2–3 beers nightly. PHQ-9 is 6 (mild symptoms). He asks to avoid adding medications for 3 months if safe. You plan to prioritize evidence-based lifestyle management and behavioral support to improve glycemic control and cardiometabolic risk. Which TWO plan components are most likely to lower A1c by ≥0.5–1.0% over 3–6 months and support sustained control?","A) Prescribe a Mediterranean-style, calorie-restricted meal plan targeting 5–10% weight loss plus ≥150 minutes/week moderate-intensity aerobic activity and 2 days/week resistance training.
+B) Start cinnamon 2 g/day as a glucose-lowering supplement in lieu of dietary changes.
+C) Initiate an unsupervised very-low-carbohydrate ketogenic diet high in saturated fat with no emphasis on fiber or unsaturated fats.
+D) Enroll him in a structured Diabetes Self-Management Education and Support (DSMES) program using motivational interviewing, SMART goals, and problem-solving for adherence barriers.
+E) Check A1c monthly to “motivate” behavior change without other interventions.
+F) Recommend a high-protein diet (>1.6 g/kg/day) despite microalbuminuria to curb appetite and improve glycemia.
+G) Set a 10,000-steps/day pedometer goal only, without dietary changes or resistance training.
+H) Initiate basal insulin now while maintaining current lifestyle because it lowers A1c reliably.
+I) Add over-the-counter chromium picolinate to improve insulin sensitivity.
+J) Prioritize 7–8 hours of sleep, reduce alcohol, and start mindfulness training without a structured nutrition or exercise plan.","A, D"
+77,Should people with diabetes get a hepatitis B shot?,"Yes, adults with diabetes under 60 should receive Hep B vaccination.",Your clinic policy follows the guidance that adults with diabetes younger than 60 years should receive hepatitis B vaccination if not already immune. Which TWO of the following patients should be vaccinated today?,"A) 62-year-old woman with type 2 diabetes; no prior hepatitis B vaccination; HBsAg negative, anti-HBs 0 mIU/mL
+B) 54-year-old man with type 2 diabetes; no vaccination records; HBsAg negative, anti-HBs 3 mIU/mL, anti-HBc negative
+C) 40-year-old man without diabetes; no prior hepatitis B vaccination
+D) 47-year-old woman with type 2 diabetes; completed 2-dose Heplisav-B last year; anti-HBs 120 mIU/mL
+E) 58-year-old man with prediabetes (A1c 6.3%); no prior hepatitis B vaccination
+F) 35-year-old man with type 1 diabetes; HBsAg negative, anti-HBc positive, anti-HBs 150 mIU/mL
+G) 28-year-old woman newly diagnosed with type 1 diabetes; no prior hepatitis B vaccination; HBsAg negative, anti-HBs 0 mIU/mL
+H) 70-year-old man with type 2 diabetes in assisted living; no prior hepatitis B vaccination
+I) 55-year-old woman with a remote history of gestational diabetes only; no current diabetes; no prior hepatitis B vaccination
+J) 17-year-old with type 1 diabetes; completed childhood hepatitis B series documented in infancy","B, G"
+78,Does diabetes increase my risk of fractures?,People with type 1 or type 2 diabetes have a significantly higher fracture risk.,"A 62-year-old woman with a 12-year history of type 2 diabetes mellitus (A1c 7.8%) presents for osteoporosis counseling. BMI is 31 kg/m2; 25-hydroxyvitamin D is 30 ng/mL; eGFR is 70 mL/min/1.73 m2. She has mild nonproliferative retinopathy and distal symmetric neuropathy. DEXA: lumbar spine T-score −0.3, total hip T-score −0.6. Which TWO statements best reflect her fracture risk and how you should counsel her compared with a similar non-diabetic peer?","A) Despite near-normal BMD, her type 2 diabetes confers a higher fracture risk than in a similar non-diabetic adult.
+B) Her higher BMI offsets any diabetes-related fracture risk, making her overall risk lower than average.
+C) After adjusting for BMD, type 2 diabetes is not associated with higher hip fracture risk.
+D) Metformin therapy is associated with increased fracture risk.
+E) Diabetic neuropathy and retinopathy do not meaningfully affect fall/fracture risk once age and BMI are considered.
+F) Achieving A1c <6.0% would eliminate the excess fracture risk and make her risk lower than a non-diabetic peer.
+G) A normal-to-near-normal BMD effectively rules out any diabetes-related fragility fracture risk.
+H) Both type 1 and type 2 diabetes are associated with increased fracture risk compared with non-diabetic adults.
+I) Prediabetes alone carries the same fracture risk as established type 2 diabetes.
+J) Thiazolidinediones (e.g., pioglitazone) reduce fracture risk in postmenopausal women.","A, H"
+79,Are testosterone levels lower in men with diabetes?,"Yes, men with diabetes often have lower testosterone; obesity also contributes.","A 52-year-old man with type 2 diabetes mellitus (A1c 8.2%) and BMI 35 kg/m² presents with decreased libido and fatigue. Morning total testosterone is 230 ng/dL (ref 300–1000), LH is 2.6 IU/L (low–normal), and SHBG is low. Which TWO statements best explain the likely cause of his biochemical hypogonadism?","A) Low SHBG from obesity makes total testosterone appear low, but free testosterone is typically normal in such patients
+B) Type 2 diabetes is associated with functional hypogonadotropic hypogonadism due to insulin resistance–related suppression of the hypothalamic-pituitary-gonadal axis
+C) Diabetic autonomic neuropathy commonly causes hyperprolactinemia, which is the dominant mechanism for low testosterone in type 2 diabetes
+D) Type 1 diabetes, not type 2, is more strongly linked to low testosterone because of absolute insulin deficiency
+E) Initiating intensive insulin therapy reliably normalizes testosterone levels independent of weight change
+F) Visceral adiposity from obesity contributes to low testosterone and low–normal LH by suppressing gonadotropin secretion and increasing aromatization
+G) Chronic hyperglycemia increases SHBG, leading to low free testosterone despite normal total testosterone
+H) Testosterone therapy is first-line in all men with diabetes to improve glycemic control, regardless of etiology of hypogonadism
+I) Erectile dysfunction in diabetes is specific for androgen deficiency rather than vascular or neuropathic causes
+J) Afternoon testosterone measurements are preferred because values are higher later in the day","B, F"
+80,What increases the risk of female sexual dysfunction in diabetes?,"High blood pressure, obesity, metabolic syndrome, smoking, and high cholesterol.","A 46-year-old woman with an 8-year history of type 2 diabetes reports diminished sexual desire and arousal over 6 months. She smokes 0.5 pack/day. Vitals: BP 124/78 mmHg, BMI 26 kg/m2, waist circumference 98 cm. Labs: fasting glucose 152 mg/dL, A1c 8.4%, triglycerides 210 mg/dL, HDL 42 mg/dL, LDL 108 mg/dL, urine albumin-to-creatinine ratio 45 mg/g. She walks briskly 30 minutes 4 days/week and takes metformin and an SGLT2 inhibitor. Which TWO of the following most increase her risk of female sexual dysfunction?","A) Current cigarette smoking (0.5 pack/day)
+B) Overweight status (BMI 26 kg/m2)
+C) Suboptimal glycemic control (A1c 8.4%)
+D) Well-controlled blood pressure (124/78 mmHg)
+E) Metformin therapy
+F) Meets metabolic syndrome criteria (waist 98 cm, TG 210 mg/dL, HDL 42 mg/dL)
+G) SGLT2 inhibitor use with intermittent vulvovaginal candidiasis
+H) Regular aerobic exercise 4 days/week
+I) Microalbuminuria (urine albumin-to-creatinine ratio 45 mg/g)
+J) Normolipidemia (LDL 108 mg/dL)","A, F"
+81,What liver test is recommended for people with diabetes or pre-diabetes?,"If the FIB-4 score is ≥ 1.3, consider liver stiffness testing.","A primary care clinic screens adults with diabetes or pre-diabetes for advanced fatty liver disease using the FIB-4 index and refers those with FIB-4 ≥ 1.3 for liver stiffness measurement (e.g., transient elastography). Based on the data below, which TWO patients should be referred today? Use FIB-4 = (Age × AST)/(Platelets × √ALT); platelets in 10^9/L.","A) 42-year-old woman with prediabetes (A1c 6.0%); AST 32 U/L, ALT 36 U/L, platelets 220 ×10^9/L
+B) 58-year-old man with type 2 diabetes (A1c 8.1%); AST 48, ALT 40, platelets 180
+C) 60-year-old man with type 2 diabetes; AST 30, ALT 30, platelets 260
+D) 35-year-old woman with prior gestational diabetes and current prediabetes; AST 45, ALT 40, platelets 200
+E) 67-year-old man with type 2 diabetes; AST 25, ALT 50, platelets 230
+F) 55-year-old woman with type 2 diabetes; AST 26, ALT 35, platelets 200
+G) 50-year-old man with type 2 diabetes; AST 35, ALT 25, platelets 150
+H) 48-year-old woman with type 2 diabetes; AST 60, ALT 80, platelets 300
+I) 52-year-old man with prediabetes; AST 22, ALT 20, platelets 240
+J) 62-year-old woman with type 2 diabetes; AST 30, ALT 34, platelets 320","B, G"
+82,What does MASLD mean?,Metabolic dysfunction–associated steatotic liver disease—a non-alcoholic fatty liver condition.,"A 54-year-old man with type 2 diabetes (A1c 8.1%), BMI 31 kg/m², triglycerides 320 mg/dL, ALT 58 U/L (ULN 40), AST 42 U/L, normal bilirubin, negative HBsAg and HCV Ab, reports 3 beers per week (~30 g/week). Ultrasound shows diffuse increased echogenicity consistent with hepatic steatosis. Which TWO statements best characterize MASLD in this context?","A) A diagnosis reserved for patients consuming >40 g/day of alcohol
+B) A re-termed nonalcoholic fatty liver disease that emphasizes underlying metabolic dysfunction rather than alcohol
+C) A condition defined only by ALT >3× ULN and jaundice
+D) Hepatic steatosis primarily due to chronic hepatitis C genotype 3 infection
+E) Drug-induced steatosis from agents like amiodarone or methotrexate
+F) Steatotic liver disease in someone with metabolic risk factors (e.g., T2D, obesity, dyslipidemia) and low alcohol intake
+G) A diagnosis that requires biopsy-proven steatohepatitis and at least stage 2 fibrosis
+H) Synonymous with alcoholic steatohepatitis
+I) A cholestatic autoimmune liver disease characterized by antimitochondrial antibodies
+J) Primarily a mechanical biliary obstruction due to gallstones","B, F"
+83,How is MASLD defined?,Fatty liver plus at least one cardiometabolic risk factor linked to insulin resistance.,Which TWO scenarios best meet the current definition of MASLD?,"A) 45-year-old with ultrasound-confirmed hepatic steatosis; BMI 31 kg/m^2; A1c 5.4%; drinks <10 g alcohol/week; viral hepatitis screen negative.
+B) 52-year-old with mild AST/ALT elevation; BMI 22 kg/m^2; A1c 7.1%; ultrasound shows no steatosis.
+C) 35-year-old with MRI-proven hepatic steatosis; BMI 23 kg/m^2; A1c 5.1%; BP 118/70; lipids normal; no alcohol use.
+D) 60-year-old with ultrasound-confirmed steatosis; A1c 5.3%; drinks ~70 g alcohol/day; otherwise metabolically healthy.
+E) 48-year-old with BMI 34 kg/m^2 and BP 150/95, but ultrasound shows no steatosis.
+F) 40-year-old with A1c 6.2% (prediabetes) and BMI 21 kg/m^2; FibroScan CAP indicates no steatosis.
+G) 58-year-old with MRI-confirmed steatosis; BMI 23 kg/m^2; BP 120/75; A1c 5.3%; drinks ~60 g alcohol/day.
+H) 50-year-old with FibroScan CAP 320 dB/m (steatosis); BMI 26 kg/m^2; triglycerides 280 mg/dL; HDL 34 mg/dL; A1c 5.6%; minimal alcohol use.
+I) 55-year-old with ultrasound steatosis and HCV RNA positive; BMI 22 kg/m^2; A1c 5.4%; no alcohol use.
+J) 62-year-old on amiodarone with ultrasound steatosis; BMI 24 kg/m^2; A1c 5.2%; no alcohol use.","A, H"
+84,How common is MASLD in people with type 2 diabetes?,More than 70 % of U.S. adults with type 2 have MASLD.,"You are advising a U.S. primary care network on expected MASLD burden among adults with type 2 diabetes. Based on current epidemiology, which statements are accurate?","A) About 20–30% of U.S. adults with type 2 diabetes have MASLD.
+B) Roughly three-quarters of U.S. adults with type 2 diabetes have MASLD.
+C) MASLD prevalence in type 2 diabetes mirrors that of the general U.S. adult population (~25–30%).
+D) In a U.S. clinic panel of 1,000 adults with type 2 diabetes, you should expect at least 700 to have MASLD.
+E) MASLD is uncommon in type 2 diabetes unless BMI is ≥35 kg/m².
+F) Fewer than half of U.S. adults with type 2 diabetes have MASLD.
+G) MASLD is more prevalent in type 1 than type 2 diabetes.
+H) Only those with elevated ALT will have MASLD, so prevalence depends more on transaminases than diabetes status.
+I) The prevalence in U.S. adults with type 2 diabetes is approximately 50–60%.
+J) Among U.S. adults with type 2 diabetes, MASLD prevalence is below one-third.","B, D"
+85,Does diabetes increase my risk of serious liver disease like MASH?,"Yes, diabetes is a major risk factor for developing MASH (formerly NASH).","A 55-year-old man with a 10-year history of type 2 diabetes (A1C 8.2%), BMI 34 kg/m2, triglycerides 280 mg/dL, ALT 78 U/L, AST 60 U/L, and ultrasound-confirmed hepatic steatosis asks about his risk of “serious liver disease like MASH.” Which TWO statements are most accurate for counseling him?","A) Type 2 diabetes independently increases risk of developing MASH and advanced fibrosis compared with non-diabetics.
+B) In the absence of obesity, diabetes does not increase MASH risk.
+C) A normal ALT in a person with diabetes and steatosis essentially rules out steatohepatitis.
+D) Any alcohol intake precludes the diagnosis of MASH under current definitions.
+E) All patients with diabetes and steatosis require liver biopsy to confirm MASH.
+F) Routine population screening with ultrasound for MASH is recommended annually for all adults with diabetes.
+G) LDL cholesterol level is a stronger predictor of MASH than insulin resistance in diabetics.
+H) Diabetes increases the likelihood of progression from simple steatosis to cirrhosis and hepatocellular carcinoma, even without heavy alcohol use.
+I) Optimizing glycemic control eliminates the risk of MASH.
+J) Statins are contraindicated in suspected MASH because of hepatotoxicity.","A, H"
+86,What does it mean if my liver biopsy says I have MASH?,"MASH = ≥ 5 % liver fat with inflammation and cell injury, ± fibrosis.","A 52-year-old man with type 2 diabetes (A1C 8.1%) and BMI 32 undergoes liver biopsy after ultrasound suggests fatty infiltration. Pathology shows 12% macrovesicular steatosis, 1–2 lobular inflammatory foci per 200× field, and hepatocyte ballooning; trichrome stain shows no fibrosis (F0). AST 38 U/L, ALT 55 U/L. Based on current definitions, which statements about the designation “MASH” are accurate?","A) The diagnosis requires ≥5% steatosis and either inflammation or ballooning; fibrosis must be present to call it MASH.
+B) The diagnosis implies cirrhosis is already present.
+C) In a biopsy showing 12% macrovesicular steatosis, scattered lobular inflammation, and hepatocyte ballooning, the label MASH is appropriate even if fibrosis is absent.
+D) A hepatic fat fraction of 4% on biopsy with mild portal inflammation meets criteria for MASH.
+E) MASH cannot be diagnosed unless AST and ALT are elevated at least 2× the upper limit of normal.
+F) Fibrosis staging (F0–F4) is reported separately; MASH can be present at any fibrosis stage, including none.
+G) A requirement for MASH is >33% steatosis on histology.
+H) Imaging-based steatosis alone suffices to diagnose MASH if BMI >30 and diabetes are present.
+I) MASH and simple steatosis (MASLD without steatohepatitis) are interchangeable terms.
+J) Portal-predominant inflammation without hepatocyte ballooning is diagnostic of MASH.","C, F"
+87,Which diabetes medicines are best if I have type 2 diabetes and MASH?,"Pioglitazone, GLP-1 receptor agonists, or dual GIP/GLP-1 agonists help both blood sugar and liver disease.","A 55-year-old with type 2 diabetes (A1c 8.6% on metformin 1000 mg BID), BMI 36 kg/m², ALT 98 U/L, AST 82 U/L, eGFR 70 mL/min/1.73 m², and biopsy-proven MASH with stage F2 fibrosis asks which add-on diabetes medications can help both glycemic control and liver disease. He has no heart failure, no active gallbladder disease, and no contraindications to incretin-based therapy. Which TWO options have the strongest evidence for improving MASH histology while also lowering A1c?","A) Pioglitazone
+B) Semaglutide (GLP-1 receptor agonist)
+C) Tirzepatide (dual GIP/GLP-1 agonist)
+D) Empagliflozin (SGLT2 inhibitor)
+E) Sitagliptin (DPP-4 inhibitor)
+F) Glipizide (sulfonylurea)
+G) Increase metformin to 2500 mg/day
+H) Insulin glargine
+I) Acarbose
+J) Repaglinide","A, B"
+88,What is resmetirom and who should take it?,"An FDA-approved drug for MASLD with moderate-to-advanced fibrosis, often co-existing with diabetes.",Which two patients below are appropriate candidates for initiation of resmetirom based on current FDA labeling and typical clinical selection criteria?,"A) 62-year-old man with MASLD-related compensated cirrhosis: FibroScan 17.8 kPa, platelets 125,000/µL, MELD-Na 9, no ascites; abstains from alcohol.
+B) 58-year-old woman with type 2 diabetes (A1c 7.5%), BMI 33 kg/m², biopsy-proven steatohepatitis with stage F3 fibrosis; HBV/HCV negative; alcohol <1 drink/week; ALT 62 U/L.
+C) 38-year-old man with hepatic steatosis on ultrasound; FIB-4 0.9; FibroScan 6.0 kPa; ALT 28 U/L; no diabetes.
+D) 55-year-old man drinking 5–6 alcoholic drinks/day with alcoholic steatohepatitis and F2 fibrosis on biopsy.
+E) 50-year-old woman with untreated chronic HCV and F2 fibrosis on elastography; metabolic syndrome absent.
+F) 49-year-old man with obesity and type 2 diabetes seeking weight loss; ALT 25 U/L; FibroScan 6.5 kPa; wants resmetirom primarily for weight reduction.
+G) 16-year-old adolescent with MASLD and MR elastography 3.9 kPa (consistent with ≥F2); otherwise healthy.
+H) 45-year-old man with metabolic syndrome, HbA1c 7.4%, FibroScan 10.8 kPa (F3) and CAP 320 dB/m; HBV/HCV negative; drinks 1–2 drinks/week; no portal hypertension.
+I) 64-year-old woman with MASLD and decompensated cirrhosis (ascites, bilirubin 3.2 mg/dL, INR 1.6); MRE 5.1 kPa.
+J) 34-year-old pregnant woman with MASLD and MRE 3.8 kPa (≈F2); normal platelets; no alcohol use.","B, H"
+89,How common is sleep apnoea if I have type 2 diabetes?,Sleep apnoea affects up to 23 % and sleep-disordered breathing up to 58 %.,"A 55-year-old man with a 10-year history of type 2 diabetes (A1c 8.4%), BMI 34 kg/m2, and resistant hypertension reports loud snoring and daytime sleepiness. He asks how common “sleep apnea” is in people with type 2 diabetes. When counseling him using epidemiologic data specific to type 2 diabetes, which TWO statements most accurately reflect expected prevalence?","A) Obstructive sleep apnoea (OSA) affects the majority (>50%) of adults with type 2 diabetes.
+B) OSA affects up to about 23% of adults with type 2 diabetes.
+C) Sleep-disordered breathing (SDB), when defined broadly beyond OSA, affects about 15% of those with type 2 diabetes.
+D) SDB affects up to about 23% of those with type 2 diabetes, while OSA affects up to about 58%.
+E) The prevalence of OSA in type 2 diabetes is comparable to the general population and is not meaningfully elevated.
+F) Only patients with morbid obesity (BMI ≥40 kg/m2) and type 2 diabetes have materially increased risk for OSA; otherwise prevalence is negligible.
+G) Central sleep apnoea accounts for the majority of sleep-disordered breathing in type 2 diabetes.
+H) When including milder forms (SDB), prevalence can be as high as approximately 58% among adults with type 2 diabetes.
+I) The best estimate is that fewer than 10% of adults with type 2 diabetes have any form of sleep-disordered breathing.
+J) OSA prevalence in type 2 diabetes is roughly 40–60% based on most cohorts.","B, H"
+90,Should people with diabetes get diabetes education and support?,"Yes, everyone with diabetes should enrol in education and support programs.","A 55-year-old with newly diagnosed type 2 diabetes (A1C 8.6%, BMI 33 kg/m²) asks whether he can learn from online resources and wait to seek formal instruction unless medications escalate. He works night shifts and worries about time. Which TWO recommendations regarding diabetes education and support are most appropriate to improve outcomes?","A) Defer formal education for 6 months to see how well he self-educates online.
+B) Refer now to a recognized Diabetes Self-Management Education and Support (DSMES) program for structured education and ongoing support.
+C) Offer DSMES only if/when insulin is initiated due to hypoglycemia risk.
+D) Arrange a one-time dietitian visit; ongoing support isn’t needed if A1C is under 9%.
+E) Arrange DSMES now and plan refreshers at key clinical transitions (e.g., medication intensification, new complications, hospital discharge).
+F) Recommend DSMES only if a family member can attend; otherwise benefits are negligible.
+G) Suggest mobile apps alone; DSMES adds little beyond usual care.
+H) Reserve DSMES for patients with low health literacy; he is college-educated.
+I) Enroll him in a Diabetes Prevention Program instead of DSMES, as prevention curricula also apply after diagnosis.
+J) Delay DSMES because shift-work limits attendance and adherence.","B, E"
+91,Who helps teach and support people with diabetes?,Diabetes Care & Education Specialists (DCES) are the go-to professionals.,"A 48-year-old with newly diagnosed type 2 diabetes (A1C 10.2%) is starting basal insulin and CGM. He feels overwhelmed and asks for comprehensive, ongoing training in glucose data interpretation, carbohydrate counting, hypoglycemia prevention, sick-day rules, and goal setting, ideally through services recognized for insurance coverage under current standards. Which TWO referrals most directly fulfill this need as the primary, credentialed resources for structured diabetes self-management education and support?","A) Endocrinologist consultation focused on insulin titration and complication screening
+B) Certified Diabetes Care and Education Specialist (CDCES/DCES) providing DSMES
+C) Primary care physician visit within a patient-centered medical home
+D) Device company trainer for the selected CGM or insulin pen
+E) Registered dietitian offering general nutrition counseling outside an accredited DSMES program
+F) Accredited Diabetes Self-Management Education and Support (DSMES) program staffed by DCES educators
+G) Certified health coach specializing in weight management
+H) Community pharmacist providing medication therapy management but not part of a DSMES program
+I) Ophthalmologist visit for retinal screening and diabetes education
+J) Podiatrist-led foot care education clinic","B, F"
+92,Are there any special dietary warnings for people taking SGLT2 inhibitors?,Avoid a ketogenic diet and watch for ketoacidosis signs.,A 54-year-old man with type 2 diabetes (A1c 7.6%) on metformin and empagliflozin 10 mg daily asks about starting a ketogenic diet (<20 g carbs/day) and doing 24-hour fasts twice weekly to accelerate weight loss. He drinks alcohol on weekends and has normal renal function. Which TWO counseling points are most appropriate regarding dietary precautions with SGLT2 inhibitors?,"A) Advise that strict ketogenic diets or prolonged fasting while on an SGLT2 inhibitor increase risk of euglycemic DKA; avoid very-low-carb/ketogenic patterns unless the SGLT2 is stopped under supervision.
+B) Reassure him that DKA only occurs if glucose >300 mg/dL, so ketogenic diets are safe on SGLT2 as long as he checks fingerstick glucose.
+C) Encourage high-protein/high-fat intake with minimal carbohydrates to synergize with SGLT2 for maximal weight loss.
+D) Educate him to watch for symptoms of ketoacidosis (nausea, vomiting, abdominal pain, malaise, rapid breathing) and to check ketones if unwell, low-carb, or fasting.
+E) Recommend increasing sodium intake substantially to offset osmotic diuresis from SGLT2 and prevent DKA.
+F) Suggest starting low-dose insulin while on SGLT2 to prevent ketosis, even though he is not prescribed insulin.
+G) Advise complete avoidance of fruit because fructose specifically raises DKA risk with SGLT2 inhibitors.
+H) Encourage moderate alcohol intake on weekends because alcohol lowers the risk of DKA with SGLT2 inhibitors.
+I) Counsel that SGLT2 inhibitors protect against ketosis by lowering glucose, so no special dietary precautions are needed.
+J) Recommend using exogenous ketone supplements to achieve ketosis more safely while taking an SGLT2 inhibitor.","A, D"
+93,What are the risks of drinking alcohol if I have diabetes?,"Alcohol can cause low blood sugar, weight gain, or high blood sugar, especially with insulin or certain pills.","A 52-year-old man with type 2 diabetes on basal insulin and glipizide plans to attend a party where he will drink alcohol. He often eats little when drinking. Last weekend his bedtime glucose was 140 mg/dL; at 3 AM he became diaphoretic and confused, with a glucose of 52 mg/dL. He has also gained 5 kg over 6 months. Which counseling statements are most appropriate regarding alcohol and his diabetes?","A) He should routinely omit his mealtime insulin when drinking alcohol, regardless of food intake, to avoid hypoglycemia.
+B) Alcohol acutely raises blood glucose by stimulating hepatic glycogenolysis, so nocturnal lows are unlikely.
+C) Alcohol can precipitate delayed nocturnal hypoglycemia by inhibiting hepatic gluconeogenesis, a risk amplified by insulin and sulfonylureas.
+D) “Light” beer has negligible calories and carbohydrate, so it will not affect weight or glycemia.
+E) Sugary mixers and the caloric load of alcohol can raise glucose and contribute to weight gain; choose noncaloric mixers and count carbs.
+F) Skipping dinner before drinking is protective against hyperglycemia.
+G) Metformin monotherapy is the main driver of alcohol-related hypoglycemia in type 2 diabetes.
+H) If severe hypoglycemia occurs after heavy drinking, intramuscular glucagon will work as effectively as usual.
+I) Alcohol reliably improves insulin sensitivity overnight, preventing both weight gain and hyperglycemia.
+J) If he limits himself to two drinks, glucose monitoring before bed and overnight is unnecessary.","C, E"
+94,What is diabetes distress?,Feeling stressed or overwhelmed by the daily demands of diabetes management.,"A 42-year-old with type 2 diabetes (A1c 8.4%) reports feeling “exhausted by constant glucose checks, carb counting, and worrying about highs and lows,” and guilty when readings are off. He denies anhedonia, sleep/appetite changes, or suicidality; PHQ-9 = 3. Which statements best apply to his presentation?","A) This presentation is most consistent with diabetic ketoacidosis and warrants emergent evaluation.
+B) This presentation is consistent with diabetes distress—a diabetes-specific emotional burden arising from the ongoing demands of self-management that can fluctuate with disease course.
+C) The best initial treatment is to start an SSRI regardless of depression screening results.
+D) This is defined primarily by hypoglycemia unawareness and counterregulatory failure.
+E) The appropriate response is to emphasize nonadherence and use punitive feedback to improve control.
+F) This condition is synonymous with major depressive disorder and should be documented as such.
+G) Diabetes distress has no meaningful impact on self-care behaviors or glycemic control.
+H) Initial management includes empathic acknowledgement, collaborative problem-solving of burdensome tasks (e.g., glucose monitoring strategies), and referral to diabetes education/peer or behavioral support.
+I) Diagnosis is confirmed by elevated serum cortisol during clinic visit.
+J) Immediate insulin intensification without addressing psychosocial factors is the preferred approach.","B, H"
+95,Can diabetes medicines or exercise affect my brain health?,Exercise and drugs like SGLT2 or GLP-1 RAs lower cognitive-decline risk; sulfonylureas may raise it.,"A 62-year-old man with 10 years of type 2 diabetes (A1c 8.1%, eGFR 70 mL/min/1.73 m², BMI 33 kg/m²) takes metformin 1,000 mg BID and glyburide 5 mg BID. He is sedentary and worried about dementia after his mother’s Alzheimer’s diagnosis. He asks which changes to his diabetes plan would most plausibly reduce his future risk of cognitive decline beyond glucose lowering. Which TWO options are best supported by current evidence?","A) Replace glyburide with an SGLT2 inhibitor or a GLP-1 receptor agonist, which are associated with lower dementia risk than sulfonylureas
+B) Add a DPP-4 inhibitor, as this class has the strongest evidence for reducing incident dementia in type 2 diabetes
+C) Target A1c ≤6.0% using higher-dose glyburide, since strict control via sulfonylureas lowers dementia risk with minimal hypoglycemia risk
+D) Begin a structured aerobic plus resistance exercise program (e.g., ≥150 min/week moderate intensity) to slow cognitive decline
+E) Switch to basal insulin, because insulin use is associated with reduced cognitive decline independent of hypoglycemia
+F) Start pioglitazone, as thiazolidinediones consistently reduce Alzheimer’s incidence in randomized trials
+G) Add high-dose vitamin E and omega-3 supplements, which have proven dementia-preventive effects in diabetes
+H) Initiate a ketogenic diet to lower insulin exposure, since nutritional ketosis is established to prevent dementia in T2DM
+I) Start a statin, because statins clearly prevent cognitive decline in diabetics regardless of cardiovascular risk
+J) Replace glyburide with another sulfonylurea (e.g., glipizide), since within-class switching lowers dementia risk versus other agents","A, D"
+96,Which sense is at greatest risk of decreasing in an older person with diabetes?,Hearing.,"A 76-year-old man with 18 years of type 2 diabetes (A1c 8.6% over the past year) and microalbuminuria (urine albumin/creatinine ratio 120 mg/g) reports increasing difficulty following conversations in noisy restaurants and feeling unsteady when walking in dim light. He underwent bilateral cataract surgery 2 years ago; his dilated retinal exam 6 months ago showed no diabetic retinopathy. BP is 148/86 mmHg. Exam shows intact confrontation visual fields, normal funduscopic findings, and decreased monofilament sensation at the toes. Which TWO sensory modalities are most likely to be diminished primarily due to diabetes-related microvascular or neural injury in this patient?","A) Bilateral high-frequency hearing acuity during speech-in-noise testing
+B) Central visual acuity on a Snellen chart with current glasses
+C) Red–green color discrimination on Ishihara testing
+D) Peripheral visual fields on confrontation testing
+E) Sweet taste detection threshold on the anterior tongue
+F) Vibration sense at the great toes using a 128-Hz tuning fork
+G) Two-point discrimination in the fingertips
+H) Olfactory identification on a 12-item smell test
+I) Temperature discrimination on the forearms with warm/cool stimuli
+J) Night vision (scotopic sensitivity) after 5 minutes of dark adaptation","A, F"

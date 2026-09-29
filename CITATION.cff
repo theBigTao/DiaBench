@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use DiaBench, please cite the paper below."
+title: "DiaBench: A Benchmarking Framework to Evaluate the Performance of LLMs in T2D Education"
+authors:
+  - given-names: Yang
+    family-names: Li
+  - given-names: Syna
+    family-names: ""
+  - given-names: Chuyi
+    family-names: Zhang
+  - given-names: Bhavana
+    family-names: Kunisetty
+  - given-names: Elizabeth
+    family-names: Healey
+  - given-names: Agatha F.
+    family-names: Scheideman
+  - given-names: Han
+    family-names: Meng
+  - given-names: Mandy M.
+    family-names: Shao
+  - given-names: Anna
+    family-names: Simos
+  - given-names: Helge
+    family-names: Ræder
+  - given-names: Yu Kuei
+    family-names: Lin
+  - given-names: Jacob
+    family-names: Kohlenberg
+  - given-names: Yangfu
+    family-names: Zhang
+  - given-names: David C.
+    family-names: Klonoff
+  - given-names: Marina
+    family-names: Basina
+  - given-names: Michael
+    family-names: Snyder
+  - given-names: Haipeng
+    family-names: Chen
+  - given-names: Tao
+    family-names: Wang
+keywords:
+  - T2D Education
+  - Large Language Models
+  - Benchmark
+  - T2D
+repository-code: "https://github.com/wmd3i/DiaBench"
+license: MIT
+# NOTE: fill in the journal/volume/DOI once JAMA Network assigns them.
